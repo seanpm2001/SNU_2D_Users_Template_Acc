@@ -1,0 +1,7 @@
+SNU developer log day 477
+
+I am back with normal development today. It feels really strange, but I should get used to it soon. I got so used to the development of an audio management program that I feel completely different when developing SNU. During the export time, since May 2nd 2020, I have worked on an audio database software as a replacement for SNU development, and I made significant progress with it. I am still developing it. I am unsure if I will integrate it in its entirety to SNU, but it is just recently being converted from personal software to public software.
+
+Along with documentation and an ideaboard update, a new major feature that was added today is a data management center. It is a place where users can download and delete data that is uploaded to SNU. Unlike GoogleTakeout (1 inspiration to this, inspired to improve past it personal information is not logged in this, unless you upload it yourself. I had little time with development today, and the site doesn't have upload functionality yet, so I just got the base ready. Today was a decent day for development.
+
+Sean Patrick Myrick on May 21st 2020

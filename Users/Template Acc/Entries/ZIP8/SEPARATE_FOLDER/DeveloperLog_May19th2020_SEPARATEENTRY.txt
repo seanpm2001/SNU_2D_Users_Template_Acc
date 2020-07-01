@@ -1,0 +1,7 @@
+SNU developer log day 475
+
+I made even more errors yesterday, such as doubling the developer log entry section of yesterdays update log entry. I have also been using an easy technique to get through weekly entries faster for the developer log, which is replacing the week number. Unfortunately, this also causes another issue, as it modifies other numbers within the page that shouldn't be altered, the issue gets worse the lower the week number is. Today was my final day of working on mass weekly entry exports. I am also now having a decision on the name SNU, not only is it hard to get (the acronym) but I found out it can be associated with snusnu. So the name is now under consideration even further.
+
+I decided to finalize development today on the weekly entry system, so I can get back to normal development tomorrow. It is finally over. Today was an OK day for development.
+
+Sean Patrick Myrick on May 19th 2020

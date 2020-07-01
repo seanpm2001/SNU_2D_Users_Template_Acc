@@ -1,0 +1,7 @@
+SNU developer log day 472
+
+I had to skip development today so I could get my schedule under control. I am managing my time very poorly, and it is not applicable anymore (starting work past 6:00 pm to finish before 7:00 pm) so I only did the bare minimum documentation today, so I could have time to work on other projects. i didn't do a hard drive backup today, I hope to do so tomorrow, but I won't be able to test the new hard drive out, due to a forecast of heavy thunderstorms all day.
+
+I am going to work to get my schedule under control again. Development should hopefully begin again normally tomorrow (with the project I have been doing, of course) tomorrow should be the perfect day to get it under control, a rainy day with less distractions. I had the time today, but I chose to spend an extra 2 hours being unproductive to SNU development. I will try to not let this happen again this month.
+
+Sean Patrick Myrick on May 16th 2020
