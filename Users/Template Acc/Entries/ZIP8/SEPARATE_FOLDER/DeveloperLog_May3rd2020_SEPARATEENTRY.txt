@@ -1,0 +1,7 @@
+SNU developer log day 459
+
+I started a new more effective schedule yesterday where I start 2 hours earlier. It is working really well, and I did it again today. I have time for my main projects, and also for extra projects. I finally got time to work on my music collection yesterday. However while taking a short 2 minute break from working yesterday, I came back to find that my computer had restarted itself, and it suffered from a critical error: Event 41 Kernel-power. I did some research on it, but there aren't too many tesults. I am hoping my hardware isn't going to fail. This is the first critical error my computer has had where the computer restarts itself. When it crashed monthly back in 2019, it would just completely freeze up until I did a hard power cycle. I got to work a bit late today, as I did some gardening, then I got distracted with Wikipedia.
+
+Recently, I removed the commenting from update log entries so that they show up early in their draft form. I am going to try and keep it this way for a while, as it reduces development time by nearly a minute and a half. Today, I did the usual documentation change that I have been doing lately. I am making some progress, I am down to making separate July 2019 entries now (From February 2020 entries) today was an OK day for development.
+
+Sean Patrick Myrick on May 3rd 2020

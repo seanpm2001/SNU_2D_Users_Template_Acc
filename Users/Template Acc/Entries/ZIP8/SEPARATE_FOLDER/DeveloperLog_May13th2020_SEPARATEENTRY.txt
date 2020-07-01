@@ -1,0 +1,7 @@
+SNU developer log day 469
+
+I had very little time for development today, as I allocated a lot of time to other projects. Today, I continued the separate documentation project, now going for weekly entries. I got 10 done today, I will try to do 20 tomorrow, if I have the time. I have been putting tons of time into another project, it has been updated on a daily basis for 12 days now. I won't drop support for SNU over this, but I almost have this project in a fully working state.
+
+SNU 3.0.7 will be coming up in a little over a month, and normal site development should begin again soon. Today was an OK day for development.
+
+Sean Patrick Myrick on May 13th 2020

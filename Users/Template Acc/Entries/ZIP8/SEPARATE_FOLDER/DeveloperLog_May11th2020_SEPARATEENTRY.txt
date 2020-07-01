@@ -1,0 +1,7 @@
+SNU developer log day 467
+
+I am really close to finishing the current external entry page. Today, I did the last of the daily update log entries (I wasn't planning for it to line up directly with an even number divisible by 10) developer log entries will take a while longer still, and there are a few extra update log entries (pre-3.0.4 entries) but it should barely take that much time to finish.
+
+I have been making lots of progress on my other projects, I hope to keep this new schedule going. I woke up a few hours earlier today and got a lot more done. Today was a decent day for development, decent because I finally finished part of the export project.
+
+Sean Patrick Myrick on May 11th 2020
