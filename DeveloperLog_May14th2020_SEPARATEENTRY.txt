@@ -1,0 +1,7 @@
+SNU developer log day 470
+
+I had far less time for site development today, so some things were rushed. I added in more weekly entries from the past today, and some documentation improvements. I have began learning a new language (jQuery) yesterday (it might not be a language, just a library for JavaScript, I don't have time to research that right now)
+
+SNU 3.0.7 begins development exactly 1 month from today. I am going to have to clear up at least 40 Gigabytes of space from my Hard drive first. Today was an Ok day for development. I could have managed my time better, but I didn't.
+
+Sean Patrick Myrick on May 14th 2020

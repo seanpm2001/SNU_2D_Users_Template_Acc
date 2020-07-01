@@ -1,0 +1,7 @@
+SNU developer log day 478
+
+I picked up the pace today and did a little more. I am still getting into schedule, this will take a while. Today, I added another important part of the SNU data management system, which is user history (search, watch, etc history) this feature is also currently just a template, as SNU still doesn't have upload functionality. I also updated the main SNU data management center page.
+
+Today was another short day for development. It was mostly a documentation and template update. I hope to get more done tomorrow compared to today. Today was an OK day for development.
+
+Sean Patrick Myrick on May 22nd 2020
