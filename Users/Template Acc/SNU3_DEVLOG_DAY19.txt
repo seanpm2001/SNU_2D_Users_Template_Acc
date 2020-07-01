@@ -1,0 +1,6 @@
+SNU 3.0 Developer log day 19
+Not much of an update today. Today is the last day of my 6 day break. I added a few features such as the cookie jar, and upload center
+There is now full access to SNU 0 but it doesn't feel like much. Just a bunch of extra HTML work for nothing. Hopefully people enjoy it
+I was going to make a tribute to Pie-Pivot-o, a YouTuber who died a couple days ago due to suicide, but I just didn't have the time
+I updated the HTML references so that they easier for me and other developers to access. There is now a 2 way system to the resources and it works pretty well
+Sean Myrick on February 18th 2019

@@ -1,0 +1,37 @@
+SNU 3.0 Developer log day 1
+Today is the first day of SNU 3 development. Version 2.0 was a failure, as it wasn't possible to work with the code I had, and it had poor planning. Version 3 is already looking really good
+Today, after more HTML testing, I decided that I should try and develop a basic HTML structure for SNU instead of depending on Google sites or Javascript any longer
+It is almost like a sign. The HTML hyperlink error lead to so many discoveries, I began looking up how to do all these different things. Now I have
+After I successfully managed to embed images, audio, and video into HTML, along with other skills like opening files in other folders, hosting downloads, and opening documents within documents, I moved from my HTML testing ground into the real environment
+I am going to try and take it slowly so I don't have to restart again. I think version 3 has a lot of potential. Someday, I will get this site working
+Today, I started out with development on the basic site elements such as pseudocode, front pages, trending, and assets. I laid the foundation today
+Sean Patrick Myrick on January 31st 2019
+SNU 3.0 Developer log day 2
+Today is another big day in Modern SNU development. I began to work on the profiles for staff and companies. Getting the layout for staff right is important, along with users (coming tomorrow) today, I just established a home base for the sites community
+Today wasn't the most exciting day in development, but some important progress was made
+Sean Patrick Myrick on February 1st 2019
+SNU 3.0 Developer log day 3
+SNU has received a massive update today, mainly involving user profiles. I have put in lots of effort today into making a template account that mimics what a profile looks like
+I think it is a pretty good example. However, it is going to take A LOT of work. So far, just the basic HTML is over 80 Kilobytes in size. I haven't even added any styles or many images yet
+I burnt myself out of it for the day, and I began to port SNU 2.0 into the root folder. SNU 2.0 was a failure, but its code establishes a lot of ideas and commitments that I am going to take inspiration from and live up to
+Just taking this one day at a time, I will eventually get a good layout finished and a good testing server.
+Also, I am going to start using paragraphs and bolding instead of just all headings for my HTML style
+One last thing, I have decided to start and keep documentation in the blog section of the profile test account (where you currently are) it may get copied in the future, but the original will remain here
+Sean Patrick Myrick on February 2nd 2019
+SNU 3.0 Developer log day 4
+I didn't have the best development day today, not much was added, and I was caught up in a lot of other things. I got burnt out of the project a bit yesterday and it lasted into today
+Hopefully tomorrow is better
+Sean Patrick Myrick on February 3rd 2019
+SNU 3.0 Developer log day 5
+Today was a better day in development. So the user profile now has an immense amount of sections, currently totaling at 125. Today was mostly an index update, along with adding settings, and fixing up the blog sections
+Today was A LOT better than yesterday at least
+Sean Patrick Myrick on February 4th 2019
+SNU 3.0 Developer log day 6
+Sorting is taking forever now. I managed to add in all the new sections, there are 123 total sections as of right now. Also, yes I am aware that there is a duplicate [downloads] link in the profile, but to fix that within 123 different documents, that would take WAT too long
+At least today was a better development day than yesterday
+Sean Patrick Myrick on February 5th 2019
+snu 3.0 Developer log day 7
+The first week of development has finished and I have laid a pretty good foundation
+I have been getting a lot of progress with new settings, currently, I am working on cloud storage and personalization settings
+I also created my first HTML stylesheet today, then I got burnt out as soon as I figured out how to connect a hyperlink
+Sean Patrick Myrick on February 6th 2019

@@ -1,0 +1,32 @@
+SNU 3.0 Developer log Week 2
+SNU 3.0 Developer log day 8
+Today is the first day of the second week of development. Honestly, I think these burnout periods I am experiencing are actually helpful, as it spans out more time for me to implent and think of new ideas and ways to shape SNU into the way I want it to be
+This is just the very tip of the iceberg, but this site has so much potential
+Today, I worked on hyperlinks through multiple files and setting up "index bases" in the SNU 2 folders so SNU 3 can have easy access to the legacy version
+Sean Patrick Myrick on February 7th 2019
+SNU 3.0 Developer log day 9
+Today, I worked on the connection between SNU 2 and SNU 3. I didn't do anything else
+Sean Patrick Myrick on February 8th 2019
+SNU 3.0 Developer log day 10
+Today, I finished up the script file connection for SNU 2 between SNU 3. I also began to work on a new feature called "legends of the internet"
+It is a series that goes over revolutionary content on the internet that made an impact
+Sean Patrick Myrick on February 9th 2019
+SNU 3.0 Developer log day 11
+I haven't been updating the rest account lately. Today, I added in the Febuary 8th, 9th, and 10th days in the blog. I also put more work into the legends of the internet project, and made a new Terms Of Service that is more updated/p>
+I took a break for the rest of the day afterwards
+Sean Patrick Myrick on February 10th 2019
+SNU 3.0 Developer log day 12
+I have began to add Blender into legends of the internet because who said I had to stop after social media? This is for all internet content
+Today, I have also resumed development on my calculator, so website development may be a little slower. I am not getting burnt out as easily anymore either
+I also updated the blog documentation and exported all documents into different formats from Day 7 to Day 11, and Week 1 as well
+Sean Patrick Myrick on February 11th 2019
+SNU 3.0 Developer log day 13
+I didn't do that much work to this site today. I exported documents and caught up the documentation, but mostly, I worked on restoring my calculator today. However, I added in some new features to the site, such as a 4chan section in Legends Of the Internet. It has a dark but interesting past
+I am only including the famous pranks and raids. Hopefully, I can get something better done here tomorrow
+Sean Patrick Myrick on February 12th 2019
+SNU 3.0 Developer log day 14
+I had a pretty productive day today. I got alot done in all my projects. I have been mainly working on documetation. I finished up current 4Chan documentation with the resources I currently had, and I also worked on Twitter, FaceBook, and Tumblr
+So if you noticed with build 3.03 I have been relying heavily on Internet Historian for a lot of documentation. It is one of the easiest resources I have access to, and he does a good job at it. In the future, I will showcase other people
+I also added a little bit of reddit and Vinesauce into internet legends
+Overall, today was a very good day
+Sean Patrick Myrick on February 13th 2019

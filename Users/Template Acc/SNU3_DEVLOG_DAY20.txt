@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 20
+Pretty slow development day today. I have been working on an HTML reference document collection so I can choose page colors easier. It is a big and unique index with lots of beautiful and exciting colors.
+Other than that, not much else was done to the site today. I updated the update log, and worked a little on the blog section but that is pretty much it.
+Sean Patrick Myrick on February 19th 2019
