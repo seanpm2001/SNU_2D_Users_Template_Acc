@@ -1,0 +1,9 @@
+SNU developer log day 436
+
+I have been preparing SNU for public collaboration today. I had a lot of time, but I spent a lot of it on other projects, and break time. I didn't have as much I wanted to do today. Today, I did another documentation update, removing over 0.36 Megabytes of comment data from the update log for the entirety of March 2020 and yesterday to save space, as older snapshots, and separate blog pages already have the comments, and that is just enough. I also worked on the Committee system, so I could further plan the development of the site, and finally, I worked on another update to the OOVID-19 disease research page.
+
+Today was a short development day, I have to do some more adjustments to my schedule, as Spring Break is over after Sunday, and I have to get to online school work again. There is also another personal project completing soon, and it might affect my schedule a bit. I want to lay down development guidelines for SNU, so that it can be managed correctly, and so I can finally get it out and begin the project globally. It will still be a while until I do that, but I am still preparing. Today was a decent day for development. I have lots of new plans now as well for what to do next.
+
+SNU 3.06 has passed 3000 commits today, making it the version with the most commits done in 6 months, this is mainly due to document export commits. A count was done for March 2020 commits, where there were 1131 commits, making it the most commits in a month, the same month document exports were done daily. This is the main reason for this high number. The new monthly average for commits is now set to 1100 for a decent month.
+
+Sean Patrick Myrick on April 10th 2020

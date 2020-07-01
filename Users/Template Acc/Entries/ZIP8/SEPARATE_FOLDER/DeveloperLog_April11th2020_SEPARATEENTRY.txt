@@ -1,0 +1,7 @@
+SNU developer log day 437
+
+I am starting to prioritize the COVID-19 disease research center page more, and with a plan I came up with to get a categorized set of data from every day of the pandemic, I am going to need lots of volunteer work in the future to accomplish this, and a lot of work now. It was a priority today, and it took a while to edit. Along with this page update, I did the usual documentation updates, and created and updated pages of the SNU Committee about graphics, and greylisted developers.
+
+I have plans to go back to Internet Museum development again, and also a plan to create separate entry pages for the update log and develper log down to November 2019, so that there is a separate copy available for all those dates, and so I can remove all the extra comments from the comment era that are plaguing the size of the update log (but not the developer log, it is doing fine) today was a short development day, I hope I can do more tomorrow.
+
+Sean Patrick Myrick on April 11th 2020

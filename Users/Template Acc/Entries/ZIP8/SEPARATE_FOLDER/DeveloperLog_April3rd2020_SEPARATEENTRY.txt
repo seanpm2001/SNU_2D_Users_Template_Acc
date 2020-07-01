@@ -1,0 +1,9 @@
+SNU developer log day 429
+
+I was a lot more unscheduled today, despite having a lot more time. I was able to make a smaller update, I didn't plan for much more today. Earlier this afternoon, my laptop began to have its CPU memory leak issue again, and I was able to counter it for now. If it gets worse again tomorrow (If a process with SYSTEM permissions has a memory leak) development might go much worse. I was able to save it today though.
+
+I would have done more today if I would have planned for more. Today, I worked mainly on documentation, with a daily update to the SNU Internet Museum (1 more page was modernized today, and the twitter page received some updates) other than that, it was a small development day. I have many new ideas that I came up with that I will try to start working on tomorrow, I just didn't have as much time today.
+
+I feel as though I haven't been making enough progress lately. I have been working on improving this, but I am balancing a lot of issues. I have been starting work an hour earlier lately (session 1 normally goes from 2:00 pm to 5:30 pm with all my laptop projects, then between 7:50 pm and 10:20 pm for my second session of laptop projects) I have a lot of projects I work on, and SNU is getting to the point where I need community collaboration, I am just not entirely ready yet, especially due to the quarantine/
+
+Sean Patrick Myrick on April 3rd 2020

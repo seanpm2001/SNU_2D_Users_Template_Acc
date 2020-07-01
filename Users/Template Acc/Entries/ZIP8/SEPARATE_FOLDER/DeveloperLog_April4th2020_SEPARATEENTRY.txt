@@ -1,0 +1,9 @@
+SNU developer log day 430
+
+I did a 3 stage test on my laptops CPU earlier today, it does not have any issues today. I have finally settled down with VLC, and I am getting a better schedule now, so I was able to do some improved site development today. I worked further on the internet museum, but brought a spoofed error message/update center to the site as a joke. I know another site that does the same thing, but it is malicious and insecure. I hope to make an improved version.
+
+I would do more, but I didn't have as much time again today. I have a really bad schedule and I have been working hard on balancing it. Today I did work on documentation as well as work on the internet museum. I discovered a lot more pages that need to be recreated, and it is going to take a while to get these pages up to a high standard with the less than 4 hours a day I have to work on SNU. I have many other projects, some of them have been held off so I can try and make a better site update. I still have to fix my schedule. If I can optimize it to get to work before 12:00 pm again, I should do really well. Right now, website work seems to start at 3:30 pm and later. It is a horribly optimized schedule.
+
+The SNU Developer surpassed 1 million characters yesterday, but I forgot to mention it. Today was a decent day for development, I hope to improve and balance everything soon. I had to cut all work to the Internet Museum from development tonight, as I ran out of time.
+
+Sean Patrick Myrick on April 4th 2020

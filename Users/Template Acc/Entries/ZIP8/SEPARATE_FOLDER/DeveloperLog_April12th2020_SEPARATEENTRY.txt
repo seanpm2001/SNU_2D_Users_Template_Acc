@@ -1,0 +1,7 @@
+SNU developer log day 438
+
+I took an extra hour off today, so I could spend more time with my family. I did update the site, I had a lot more planned, but I couldn't get to everything. I updated documentation, and tested WebVTT. Unfortunately, the video issue is fixed, but now subtitles don't work due to a "security" issue. I will need to do more research on this. Along with this, I continued to update the Greylist, and the COVID-19 disease research article.
+
+I was planning on doing an Internet Museum update today as well, but I decided it was best not to, so I could have more time for other projects. I wouldn't have the time for it today anyway. My next goal with it is to make video pages for all videos. I also planned syntax updates to each page. I had a short day for development, not much was done. I should have more time tomorrow.
+
+Sean Patrick Myrick on April 12th 2020
