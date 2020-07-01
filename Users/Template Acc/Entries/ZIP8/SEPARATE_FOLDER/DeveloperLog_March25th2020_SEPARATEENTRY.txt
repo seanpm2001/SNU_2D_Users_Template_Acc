@@ -1,0 +1,9 @@
+SNU developer log day 420
+
+I had a much smaller work day today. I woke up later, and I didn't have as much time. I also need a day to recover from yesterday. Today, most changes were done to documentation, and only 1 new thing was added, which was a new idea for a mode I came up with this morning. I should be making more updates again tomorrow other than documentation.
+
+I was also a little tired while working today. The version history page has received a major update today, with a fully functional 600 snapshot section, and starter support for SNU 3.07 and 3.08, so that it is prepared. Not too much was done today, I really hope to improve this tomorrow. it was still a decent update day.
+
+I have also made a decision on document downloads, and starting tomorrow, I will offer a zip download of the 8 formats of update log and developer log entries. It will take time to stretch this to older releases, I still haven't found the time to start doing entries before February 29th 2020. They will be in a new directory by the name of ZIP8
+
+Sean Patrick Myrick on March 25th 2020

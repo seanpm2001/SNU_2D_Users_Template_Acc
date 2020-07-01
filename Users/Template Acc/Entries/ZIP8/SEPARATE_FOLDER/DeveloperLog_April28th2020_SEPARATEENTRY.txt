@@ -1,0 +1,9 @@
+SNU developer log day 454
+
+I did a documentation update similar to yesterday today, with a higher emphasis on separate entry pages, and a lower emphasis on the ideaboard. I have decided to boost production and make 40 separate entry pages per day, instead of 20, so I can get this project done 2 times faster. I am still enjoying doing this, and I want to finish before the ending of May 2020, and I need to increase how much I do. The site will receive different updates soon once I get adjusted or finished with this project. I reached a new daily commit record today of 110.
+
+The next big part of this project with the separate entries is exporting, but I won't begin this for quite a while. This part will take far longer, unless I can get a macro tool. Today was just a documentation update day. I have to balance a few projects now, such as an SD card backup in the beginning of May, online school work, and an update to my personal music repository. Today was a decent day for development.
+
+When working on the old blog exportation, I came face to face with a variation of my old style again, and I see how much I have improved. The update log has run out of major comment blocks to remove as of yesterday, the size is going to start increasing again.
+
+Sean Patrick Myrick on April 28th 2020

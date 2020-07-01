@@ -1,0 +1,7 @@
+SNU developer log day 453
+
+I didn't know entirely what to do today. I mostly did a documentation update today, but I also worked on the ideaboard extensively, as a 2 day late celebration of the pages 1 year anniversary. The current documentation project to get separate pages for all update log and developer log entries is going to take too long at the current (31 more, including today) I might need to start doing 40 a day instead of 20 to speed it up, as I want to finish the project further from high school graduation. I enjoy doing it, but this would take away from other updates.
+
+When I get time for more projects again, I am considering updating the Internet Museum again, but I don't want that to be the only thing I do. I was feeling nostalgic today, and I did other things with my time, as I wanted to cherish my nostalgia, I haven't been having that much of it lately. My schedule might change soon, as I need to give it an overhaul. Today was an OK day for development.
+
+Sean Patrick Myrick on April 27th 2020
