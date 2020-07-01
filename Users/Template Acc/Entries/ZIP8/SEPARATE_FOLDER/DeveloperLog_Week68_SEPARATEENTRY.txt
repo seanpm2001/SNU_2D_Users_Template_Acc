@@ -1,0 +1,54 @@
+
+SNU developer log Week 68
+SNU developer log day 470
+
+I had far less time for site development today, so some things were rushed. I added in more weekly entries from the past today, and some documentation improvements. I have began learning a new language (jQuery) yesterday (it might not be a language, just a library for JavaScript, I don't have time to research that right now)
+
+SNU 3.0.7 begins development exactly 1 month from today. I am going to have to clear up at least 40 Gigabytes of space from my Hard drive first. Today was an Ok day for development. I could have managed my time better, but I didn't.
+
+Sean Patrick Myrick on May 14th 2020
+SNU developer log day 471
+
+I had very little time for site development and some other projects today. I had to cut updates to the weekly system, because I didn't have the time for it. To stay productive, I went and linked to all older developer log and update log separate entry pages. I had a lot to do today, I was redownloading music, as some files were lost, I got a haircut, I visited with friends, and I went to WA-HI to get pictures for graduation (however the actual graduation will happen in June) and I was also managing time very poorly.
+
+Today was a VERY short day for development, I hope to do better tomorrow. However, I also have some big plans for the weekend, such as hard drive backups, and testing out a 10 Terabyte drive that I got for my birthday but haven't made time to use yet. I am still very worried about it, as the last time I had an external hard drive that required both USB connection to the machine, and also a power cord, it did not go well at all. I trust Western Digital over SeaGate though, as I have had 5 western digital external hard drives, some of them for over 6 years, and they have never had any issues. On the other hand, the only SeaGate drive I had (a 8 Terabyte Passport) failed within the first 5 minutes. Today was an OK day for development.
+
+I wasn't able to deliver on the separate update and developer log entries for all time project, I made some progress on doing this to the update log (down to August 27th 2019) but I hardly did anything for the developer log. I will try to work on this, I just needed more time for another project.
+
+Sean Patrick Myrick on May 15th 2020
+SNU developer log day 472
+
+I had to skip development today so I could get my schedule under control. I am managing my time very poorly, and it is not applicable anymore (starting work past 6:00 pm to finish before 7:00 pm) so I only did the bare minimum documentation today, so I could have time to work on other projects. i didn't do a hard drive backup today, I hope to do so tomorrow, but I won't be able to test the new hard drive out, due to a forecast of heavy thunderstorms all day.
+
+I am going to work to get my schedule under control again. Development should hopefully begin again normally tomorrow (with the project I have been doing, of course) tomorrow should be the perfect day to get it under control, a rainy day with less distractions. I had the time today, but I chose to spend an extra 2 hours being unproductive to SNU development. I will try to not let this happen again this month.
+
+Sean Patrick Myrick on May 16th 2020
+SNU developer log day 473
+
+I managed my time better today, so I could have just enough time to put out the update that should have been made 2 days ago. I am going to work on improving this more and more, so I can get a consistent update schedule again. There isn't that much that I can tzlk about that is interesting in the developer log lately, I am just trying to keep the documentation consistent. Development will get interesting again after I finish this massive export project.
+
+Development will get more interesting again soon, after I finish the export project. I have some major plans that I have held off. This export project was originally intended to finish before the middle of May 2020, but it didn't. I wanted to have some time to do the usual development again before school ended, there is only like 10 more days left in my senior year before I graduate, that is another thing I have to balance, but there isn't that much work, and the work is pretty easy. Today was an Ok day for development.
+
+Sean Patrick Myrick on May 17th 2020
+SNU developer log day 474
+
+I noticed an error I made a few days ago when exporting yesterday. It appears I created 1 extra weekly entry article for the time I did it prior to yesterday. Week 35 was created before yesterday. I hope to correct these issues in the future. Today, I did the same thing as yesterday, with even better time management, allowing me to work further on other projects and also have an extra 3 minutes for this project. Not that much extra time, but I was more focused.
+
+After today, I only have 2 days left with the separate weekly entry project. I will skip separate blog entry and update log 3.0.3 and below exports and save them for another time, as I want to get back into normal development again. I will finish on May 20th 2020. Today was an OK day for development.
+
+Sean Patrick Myrick on May 18th 2020
+SNU developer log day 475
+
+I made even more errors yesterday, such as doubling the developer log entry section of yesterdays update log entry. I have also been using an easy technique to get through weekly entries faster for the developer log, which is replacing the week number. Unfortunately, this also causes another issue, as it modifies other numbers within the page that shouldn't be altered, the issue gets worse the lower the week number is. Today was my final day of working on mass weekly entry exports. I am also now having a decision on the name SNU, not only is it hard to get (the acronym) but I found out it can be associated with snusnu. So the name is now under consideration even further.
+
+I decided to finalize development today on the weekly entry system, so I can get back to normal development tomorrow. It is finally over. Today was an OK day for development.
+
+Sean Patrick Myrick on May 19th 2020
+SNU developer log day 476
+
+I needed a day off from development today. I spent a ton of time on another project, and left very little time for SNU. I also feel like I need 1 more day before I continue normally.
+
+No 2nd description available.
+
+Sean Patrick Myrick on May 20th 2020
+View full blog
