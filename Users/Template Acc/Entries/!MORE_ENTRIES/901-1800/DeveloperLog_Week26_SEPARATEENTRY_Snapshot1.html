@@ -1,0 +1,929 @@
+<!-- Start of script !-->
+<!DOCTYPE html>
+<HTML lang="en">
+<BODY>
+<meta>
+	<meta charset="UTF-16">
+</meta>
+<?php
+// No PHP available
+?>
+<BODY BGCOLOR="BLUE">
+<script type="text/JavaScript" lang="en">
+// Start of JavaScript console
+console.log("JavaScript console for the SNU Week 26 (2020) developer log entry");
+// End of JavaScript console
+</script>
+<ruby type="Text/ruby" lang="ja">
+
+</ruby>
+<TITLE lang="en">Week 26 (2020) - SNU Developer log entries</TITLE>
+<HEAD>
+<style type="Text/css" lang="en">
+<!-- Stylesheet 1 !--><style type="text/css">
+/* Grid system */
+.grid-container {
+	display: grid;
+	grid-column-gap: 26px;
+	grid-template-columns: auto auto auto;
+	background-color: #2196F3;
+	padding: 10px;
+}
+.grid-item {
+	background-color: rgba(226, 226, 226, 0.8);
+	border: 1px solid rgba(0, 0, 0, 0.8);
+	padding: 20px;
+	font-size: 26px;
+	text-align: center;
+}
+</style>
+<!-- Stylesheet 2 !--><style type="text/css">
+/* Transparent boxes */
+div.background {
+	background: url(klematis.jpg) repeat;
+	border: 2px solid black;
+}
+div.transbox {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: #00BFFF; /* The text was there, the background was the wrong color. A new beautiful shade of blue was added to fix this - April 6th 2019 */
+	border: 1px solid black;
+	opacity: 0.6;
+	filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+div.transbox p {
+	margin: 1%; /* make sure this stays at 1%. At 5%, there is a large spacing issue between each new paragraph */
+	font-weight: bold;
+	color: #ffffff;
+}
+</style>
+<!-- Stylesheet 3 /!--><style type="text/css">
+/* Sidebar */
+body {
+	margin: 0;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 16%;
+	background-color: #f1f1f1;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+}
+li a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a.active {
+	background-color: #4CAF26;
+	color: white;
+}
+li a:hover:not(.active) {
+	background-color: #265;
+	color: white;
+}
+</style>
+<!-- Stylesheet 4 !--><style type="text/css">
+/* Topbar */
+/* Add a black background color to the top navigation */
+.topnav {
+	background-color: #263;
+	overflow: hidden;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+	background-color: #4CAF26;
+	color: white;
+}
+/* Dropdown */
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 12px 16px;
+	z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+<!-- Stylesheet 5 !--><style type="text/css">
+/* Headings */
+H1 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 15px;
+	font-size: large;
+	font-size: 126%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+H2 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+H3 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+H4 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+H5 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+H6 {
+	color: white;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 6 !--><style type="text/css">
+/* Dividers, paragraphs */
+HR {
+	color: black;
+	font-family: "Liberation Serif";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+p {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 7 !--><style type="text/css">
+/* Other rich text */
+i {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+u {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+b {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+s {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+sub {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+sup {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 8 !--><style type="text/css">
+/* Details and summary */
+details {
+	color: black;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+summary {
+	color: black;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 9 !--><style type="text/css">
+/* Progress bar 
+/* Option 1 */
+progress {
+	display:inline-block;
+	width:190px;
+	height:20px;
+	padding:15px 0 0 0;
+	margin:0;
+	background:none;
+	border: 0;
+	border-radius: 15px;
+	text-align: left;
+	position:relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+}
+progress::-webkit-progress-bar {
+	height:11px;
+	width:140px;
+	margin:0 auto;
+	background-color: #CCC;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress::-webkit-progress-value {
+	display:inline-block;
+	float:left;
+	height:11px;
+	margin:0px -10px 0 0;
+	background: #F70;
+	border-radius: 15px;
+	box-shadow:0px 0px 6px #777 inset;
+}
+progress:after {
+	margin:-26px 0 0 -7px;
+	padding:0;
+	display:inline-block;
+}
+/* Option 2 */
+#progress {
+	background: #263;
+	border-radius: 13px;
+	height: 20px;
+	width: 260px;
+	padding: 3px;
+}
+#progress:after {
+	content: '';
+	display: block;
+	background: orange;
+	width: 40%;
+	height: 100%;
+	border-radius: 9px;
+}
+/* Option 3 */
+#progressbar {
+	background-color: black;
+	border-radius: 13px;
+	/* (height of inner div) / 2 + padding */
+	padding: 3px;
+}
+#progressbar>div {
+	background-color: orange;
+	width: 40%;
+	/* Adjust with JavaScript */
+	height: 20px;
+	border-radius: 10px;
+}
+/* Option 4 */
+/* Step 1 */
+progress, /* All HTML5 progress enabled browsers */
+{
+	/* Turns off styling - not usually needed, but good to know. */
+	appearance: none;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+}
+/* Step 2 */
+/* IE10 */
+progress {
+	color: black;
+}
+/* Firefox */
+progress::-moz-progress-bar {
+	background: black;
+}
+/* Chrome */
+progress::-webkit-progress-value {
+	background: black;
+}
+/* Step 3 */
+progress[value^="9"]::-moz-progress-bar {
+background-color : red;
+}
+</style>
+<!-- Stylesheet 10 !--><style type="text/css">
+/* rich text section 2 */
+p {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+P {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+b {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+B {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+u {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+U {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+s {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+S {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+i {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+I {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+sub {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+SUB {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+sup {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+SUP {
+	color: white;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 11 !--><style type="text/css">
+/* form section */
+form {
+	color: white;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+FORM {
+	color: white;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+/* specialized button hyperlink section */
+a {
+	color: green;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+A {
+	color: green;
+	font-family: "Tahoma";
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 12 !--><style type="text/css">
+/* WebGL compatibility layer */
+canvas {
+	border: 2px solid black;
+	background-color: black;
+}
+video {
+	display: none;
+}
+/* Gallery */
+div.gallery {
+	border: 1px solid #ccc;
+}
+div.gallery:hover {
+	border: 1px solid #777;
+}
+div.gallery img {
+	width: 100%;
+	height: auto;
+}
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
+* {
+	box-sizing: border-box;
+}
+.responsive {
+	padding: 0 6px;
+	float: left;
+	width: 24.99999%;
+}
+@media only screen and (max-width: 700px) {
+	.responsive {
+width: 26.99999%;
+margin: 6px 0;
+}
+}
+@media only screen and (max-width: 260px) {
+	.responsive {
+	width: 100%;
+	}
+}
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+</style>
+<!-- Stylesheet 13 !--><style type="text/css">
+/* Border image */
+#borderimg { 
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image: url(border.png) 26 round;
+}
+</style>
+<!-- Stylesheet 14 !--><style type="text/css">
+/* Scripting tags - syntax highlights for various languages, testing with Python 3 syntax */
+scri-none { /* Scri-none stands for non-identified script syntax. This text should show black if something is not written correctly, such as PRiNT instead of print */
+	font-family: "courier";
+	color: black;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+scri-blue1 {
+	font-family: "courier";
+	color: blue;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+scri-string1 {
+	font-family: "courier";
+	color: silver;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+scri-comment1 {
+	font-family: "courier";
+	color: green;
+	/*
+	font-size: 12.5px;
+	font-size: medium;
+	font-size: 125%
+	*/
+	text-shadow: 0px 0px #000000;
+}
+</style>
+<!-- Stylesheet 15 !--><style type="text/css">
+/* Start of script */
+/* Default phrase tag CSS */
+/* Contains the default CSS for the default 6 HTML5 phrase tags */
+/* Tag list:
+1 | kbd (keyboard input)
+2 | em (emphasized text) (not to be confused with the pixel measurement metric (1em = 16px)
+3 | strong (strong text)
+4 | code (computer code/script)
+5 | var (variable (text))
+6 | samp (sample output)
+*/
+/* Start of tag list */
+/* KBD (Keyboard input) */
+kbd {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+ <kbd>Keyboard input</kbd> 
+---
+*/
+/* EM (Emphasized text) */
+em {
+	font-style: italic;
+}
+/* HTML Sample:
+---
+<em>Emphasized text</em>
+---
+*/
+/* STRONG (ttrong text) */
+strong {
+	font-weight: bold;
+}
+/* HTML Sample:
+---
+<em>Emphasized text</em>
+---
+*/
+/* CODE (Computer code/script) */
+code {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+ <code>A piece of computer code</code> 
+---
+*/
+/* VAR (Variable (text)) */
+var {
+	font-style: italic;
+}
+/* HTML Sample:
+---
+<var>Variable</var>
+---
+*/
+/* SAMP (Sample output) */
+samp {
+	font-family: monospace;
+}
+/* HTML Sample:
+---
+<samp>Sample output from a computer program</samp>
+---
+*/
+/* End of tag list */
+/* File version history
+V1: Created January 1st 2020
+*/
+/* File info:
+Size: 01,.263 bytes (01,.263 Kilobytes)
+Line count: 077
+Language: CSS3 (Cascade Style Sheets)
+Line indenting: UNIX(LF)
+Encoding: UTF-8 (With no UTF-8 characters)
+/* End of script */
+</style>
+<!-- Stylesheet 16 !--><style type="text/css">
+blockquote {
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 26px;
+	margin-right: 26px;
+	color: white;
+}
+</style>
+<!-- Stylesheet 17 !--><style type="text/css">
+HR.blank {
+	border: 10px solid navy;
+	border-radius: 5px;
+}
+ /* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: navy;
+}
+
+/* mouse over link */
+a:hover {
+  color: cyan;
+}
+
+/* selected link */
+a:active {
+  color: white;
+} 
+</style>
+<!-- End of stylesheets !-->
+</style>
+<HR>
+<header>
+<div class="background">
+	<div class="transbox">
+		<H1 lang="en">SNU Developer log Week 26 article</H1>
+		<H2 lang="en"><a href="../TemplateAccountBlogs.html#SNU3_DEVELOPER_LOG_WEEK_26">Go back</a></H2>
+	</div>
+</div>
+</header>
+<HR>
+<div class="background">
+  <div class="transbox">
+	<details>
+	<summary><H1 lang="en" id="SNU3_DEVELOPER_LOG_WEEK_26">SNU developer log Week 26</H1></summary>
+	<H2 lang="en">SNU developer log day 176</H2>
+	<p lang="en">I didn't have as much time to develop today due to other projects taking too much time and battery. Luckily, progress was made in a nighttime build that made this a decent update today.</p>
+	<p lang="en">I finalized work on update log developer log entries from the 25th of July 2019 to the beginning of 3.0 development. It is now up to date for now, and hopefully now I can get the time to add other features.</p>
+	<p lang="en">Lots of time went into Minecraft Python Edition today. A little too much, I used over 3 hours of time on things that werent directly SNU. It seems to be increasing every day this week. Hopefully I can stop it tomorrow.</p>
+	<p lang="en">I have some ideas I am going to implement soon, I was hoping that I would be able to do it this week, but it doesn't seem likely right now.</p>
+	<p lang="en">Also, the idea streak is halfway done, and only 1 new idea has come up since the latest one that got added today. I am also hoping of eventually integrating a web version of my project, codenamed Minecraft Python Edition into SNU</p>
+	<p lang="en">Sean Patrick Myrick on July 25th 2019</p>
+	<H2 lang="en">SNU developer log day 177</H2>
+	<p lang="en">I am having some hardware issues today. Unfortunately, the overnight update didn't cover it all the way today. I have to leave development today with a basic small documentation update, as I have some battery and backup issues.</p>
+	<p lang="en">Updates have actually been a little dead for a while, as just the usual pages have been getting updated, no other pages. I don't think I will consider these dead updates anymore though, as something is still being done.</p>
+	<p lang="en">My phones battery is failing today, and I have to back it up so I can get a new phone, and my battery on my laptop seems weaker today. I am working on sorting these issues out.</p>
+	<p lang="en">Sean Patrick Myrick on July 26th 2019</p>
+	<H2 lang="en">SNU developer log day 178</H2>
+	<p lang="en">Unfortunately, I had to make another basic documentation filler update today, as someone distracted me during my last chance of being able to focus. I am really furious about this. This site is going nowhere like this, and incidents like these strenghen this trend.</p>
+	<p lang="en">Just a filler update today.</p>
+	<p lang="en">Sean Patrick Myrick on July 27th 2019</p>
+	<H2 lang="en">SNU developer log day 179</H2>
+	<p lang="en">I had many issues again today that prevented me from making a full update. I had some issues with loud noises, medication, and focus. I worked on other work this morning, and didn't do website development until late at night.</p>
+	<p lang="en">Today I did a documentation update, and in the end, I managed to properly update Minecraft Python Edition, orginally thinking I wouldn't be able to. Today I did another documentation update, with some improved features, such as a server info page, inspired by the Internet Archives page about their current 50 petabyte (50,000,000,000,000,000 byte) server, which is barely anything compared to my current 9 terabyte server.</p>
+	<p lang="en">I wrote a redirection page that is titled OUTOFMEM which obviously stands for OUT OF MEMORY. The page will be a redirect for the rest of SNU 3x Alpha builds for all upload features. There is also some documentation for my server, but no donation feature set up yet.</p>
+	<p lang="en">Other than that, brief required documentation updates. I managed to save it in the end, at the last hour. Todays update was a success!</p>
+	<p lang="en">Sean Patrick Myrick on July 28th 2019</p>
+	<H2 lang="en">SNU developer log day 180</H2>
+	<p lang="en">I have finally decided on a new possible development time system. As by the time I get to website development, I am lower on laptop battery, I normally plug it in, and come back later. I have decided to prevent rushed updates that unless a change to my medication is done, I will be updating later in the night.</p>
+	<p lang="en">Since doing this will give me 100% battery, instead of the usual 80% (or with medication: 46%-55%) I will be able to get a lot more done.</p>
+	<p lang="en">Today, I worked on implementing my plans to remove as many red links as possible, and also offering improvements to site settings, and the new documentation from last night.</p>
+	<p lang="en">I also did some updating beforehand, so that I could do more in the late night update, or still produce a finished update if I ran low on time.</p>
+	<p lang="en">Parts of the update were cut out to save time unfortunately, as I had to quit before 9:20 pm (not that late at night)</p>
+	<p lang="en">On a side note, this has really been bugging me with notepad++ and I haven't bothered to change it yet, but the templateaccountblogs.html file seems to always switch encoding back to ANSI when I open the application, and I have to manually set it back to UTF-8 each time.</p>
+	<p lang="en">Sean Patrick Myrick on July 29th 2019</p>
+	<H2 lang="en">SNU developer log day 181</H2>
+	<p lang="en">A new medication system just isn't working for me. I just can't develop this site at nighttime with so little time, and also with my bad laptop battery. I am going to try and work to fix this tomorrow, or possibly try harder.</p>
+	<p lang="en">Today, I put out a rushed documentation update, with just the bare essential changes to the site. I will try to do more tomorrow.</p>
+	<p lang="en">Sean Patrick Myrick on July 30th 2019</p>
+	<H2 lang="en">SNU developer log day 182</H2>
+	<p lang="en">Today was a better day for site updates. I managed to have 2 working sessions, afternoon and nighttime. The nighttime session is where I worked on yourspace. Why did I choose to do it at night? Well, I had to do research on how Myspace page creation works again, so that I could get it just right.</p>
+	<p lang="en">I tried to get as much done with my time and battery life. I had a better focus today. I also had a slightly better time management system.</p>
+	<p lang="en">Today, I began to work on the NSFW (Not Safe For Work) parts of SNU. I have recently done research on peoples opinion on these things, and I have adjusted the development to better suit everyone.</p>
+	<p lang="en">I have also learned about a possible attempt to ban autoplay tags and infinite scrolling. I am not sure if I ever plan on adopting infinite scrolling, so I am fine on that, however the autoplay thing is just cruel.</p>
+	<p lang="en">There are a lot of sites that use the autoplay tag. But unfortunately, some sites abuse it. If for some reason they banned the entire tag just off the bad actions on some, then that would be terrible.</p>
+	<p lang="en">I only have 1 page on my site that uses the autoplay tag for a big purpose, which is the classic Legends of the Internet page. It doesn't use it maliciously. All it does is, when you open the page, it will start playing a 12 second intro video, no sound, it just tells you about the page.</p>
+	<p lang="en">The looping might get removed, and the autoplay might as well. I am not sure yet if I should go through with this.</p>
+	<p lang="en">I am also accepting the fact that Minecraft Py Edition updates don't count as making the website update "significant" as I can't work on both projects at once every day.</p>
+	<p lang="en">Sean Patrick Myrick on July 31st 2019</p>
+	<a href="SNU3_DEVLOG_WEEK26.html">View full blog</a>
+	</details>
+  </div>
+</div>
+<HR>
+<section>
+<div class="background">
+	<div class="transbox">
+		<details><summary><H2 id="DownloadSection" lang="en">Download this article</H2></summary>
+		<H1 lang="en"><button><a href="TXT/DeveloperLog_Week26_SEPARATEENTRY.txt">Download as .txt (Text Document)</a></button></H1>
+		<H1 lang="en"><button><a href="PDF/DeveloperLog_Week26_SEPARATEENTRY.pdf">Download as .pdf (Portable Document Format)</a></button></H1>
+		<H1 lang="en"><button><a href="ODT/DeveloperLog_Week26_SEPARATEENTRY.odt">Download as .odt (Open Document Text)</a></button></H1>
+		<H1 lang="en"><button><a href="EPUB/DeveloperLog_Week26_SEPARATEENTRY.epub">Download as .epub (Electronic Publication)</a></button></H1>
+		<H1 lang="en"><button><a href="TXT/DeveloperLog_Week26_SEPARATEENTRY.docx">Download as .docx (Microsoft Word 2007-2019 document)</a></button></H1>
+		<H1 lang="en"><button><a href="PDF/DeveloperLog_Week26_SEPARATEENTRY.doc">Download as .doc (Microsoft Word 1.0-2003 document)</a></button></H1>
+		<H1 lang="en"><button><a href="ODT/DeveloperLog_Week26_SEPARATEENTRY.uot">Download as .uot (Unified Document Format))</a></button></H1>
+		<H1 lang="en"><button><a href="EPUB/DeveloperLog_Week26_SEPARATEENTRY.rtf">Download as .rtf (Rich Text Format))</a></button></H1>
+		<H1 lang="en"><button><a href="XML/DeveloperLog_Week26_SEPARATEENTRY.xml">Download as .xml (eXtensive Markup Language file)</a></button></H1>
+		<H1 lang="en"><button><a href="MOBI/DeveloperLog_Week26_SEPARATEENTRY.mobi">Download as .mobi (MobiPocket eBook file)</a></button></H1>
+		<H1 lang="en"><button><a href="XPS/DeveloperLog_Week26_SEPARATEENTRY.xps">Download as .xps (OpenXML Paper specification file)</a></button></H1>
+		<H1 lang="en"><button><a href="FODT/DeveloperLog_Week26_SEPARATEENTRY.fodt">Download as .fodt (Open Document Flat XML file)</a></button></H1>
+		<H1 lang="en"><button><a href="DOT/DeveloperLog_Week26_SEPARATEENTRY.dot">Download as .dot (Microsoft Office 1.0-2003 Word document template file)</a></button></H1>
+		<H1 lang="en"><button><a href="DOCM/DeveloperLog_Week26_SEPARATEENTRY.docm">Download as .docm (Microsoft Office 2007-2019 Word document template file)</a></button></H1>
+		<H1 lang="en"><button><a href="ZIP6/DeveloperLog_Week26_SEPARATEENTRY.zip">Download new 6 files as .zip (Zip archive of 6 formats)</a></button></H1>
+		<H1 lang="en"><button><a href="ZIP14/DeveloperLog_Week26_SEPARATEENTRY.zip">Download all 14 files as .zip (Zip archive of 14 formats)</a></button></H1>
+		</details>
+	</div>
+</div>
+</section>
+<HR>
+<section>
+<div class="background">
+	<div class="transbox">
+		<details><summary><H2 id="SnapshotSection" lang="en">View older versions of this page</H2></summary>
+		<H1 lang="en"><button><a href="DeveloperLog_Week26_SEPARATEENTRY_Snapshot1.html">Snapshot 1 (May 18th 2020)</a></button></H1>
+		<H1 lang="en"><button><a href="DeveloperLog_Week26_SEPARATEENTRY_Snapshot2.html">Snapshot 2 (No date)</a></button></H1>
+		<H1 lang="en"><button><a href="DeveloperLog_Week26_SEPARATEENTRY_Snapshot3.html">Snapshot 3 (No date)</a></button></H1>
+		</details>
+	</div>
+</div>
+</section>
+<HR>
+<section>
+<div class="background">
+	<div class="transbox">
+		<H1 lang="en">You have reached the bottom of this page!</H1>
+	</div>
+</div>
+</section>
+<HR>
+<footer>
+<div class="background">
+	<div class="transbox">
+		<p lang="en">Footer is not yet properly setup</p>
+	</div>
+</div>
+</footer>
+</section>
+</BODY>
+<!-- </BODY> !-->
+</HTML>
+<!-- End of script !-->
+<!-- End of script !-->
+<!-- Blank space for compiler (with extra indents) !-->
+ 
+  
+   
+	
