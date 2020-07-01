@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 5
+Today was a better day in development. So the user profile now has an immense amount of sections, currently totaling at 125. Today was mostly an index update, along with adding settings, and fixing up the blog sections
+Today was A LOT better than yesterday at least
+Sean Patrick Myrick on February 4th 2019

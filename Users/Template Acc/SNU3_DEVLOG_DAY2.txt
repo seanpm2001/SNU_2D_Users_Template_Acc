@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 2
+Today is another big day in Modern SNU development. I began to work on the profiles for staff and companies. Getting the layout for staff right is important, along with users (coming tomorrow) today, I just established a home base for the sites community
+Today wasn't the most exciting day in development, but some important progress was made
+Sean Patrick Myrick on February 1st 2019

@@ -1,0 +1,8 @@
+SNU 3.0 Developer log day 3
+SNU has received a massive update today, mainly involving user profiles. I have put in lots of effort today into making a template account that mimics what a profile looks like
+I think it is a pretty good example. However, it is going to take A LOT of work. So far, just the basic HTML is over 80 Kilobytes in size. I haven't even added any styles or many images yet
+I burnt myself out of it for the day, and I began to port SNU 2.0 into the root folder. SNU 2.0 was a failure, but its code establishes a lot of ideas and commitments that I am going to take inspiration from and live up to
+Just taking this one day at a time, I will eventually get a good layout finished and a good testing server.
+Also, I am going to start using paragraphs and bolding instead of just all headings for my HTML style
+One last thing, I have decided to start and keep documentation in the blog section of the profile test account (where you currently are) it may get copied in the future, but the original will remain here
+Sean Patrick Myrick on February 2nd 2019

@@ -1,0 +1,7 @@
+Today is the first day of SNU 3 development. Version 2.0 was a failure, as it wasn't possible to work with the code I had, and it had poor planning. Version 3 is already looking really good
+Today, after more HTML testing, I decided that I should try and develop a basic HTML structure for SNU instead of depending on Google sites or Javascript any longer
+It is almost like a sign. The HTML hyperlink error lead to so many discoveries, I began looking up how to do all these different things. Now I have
+After I successfully managed to embed images, audio, and video into HTML, along with other skills like opening files in other folders, hosting downloads, and opening documents within documents, I moved from my HTML testing ground into the real environment
+I am going to try and take it slowly so I don't have to restart again. I think version 3 has a lot of potential. Someday, I will get this site working
+Today, I started out with development on the basic site elements such as pseudocode, front pages, trending, and assets. I laid the foundation today
+Sean Patrick Myrick on January 31st 2019
