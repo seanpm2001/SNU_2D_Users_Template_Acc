@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 13
+I didn't do that much work to this site today. I exported documents and caught up the documentation, but mostly, I worked on restoring my calculator today. However, I added in some new features to the site, such as a 4chan section in Legends Of the Internet. It has a dark but interesting past
+I am only including the famous pranks and raids. Hopefully, I can get something better done here tomorrow
+Sean Patrick Myrick on February 12th 2019

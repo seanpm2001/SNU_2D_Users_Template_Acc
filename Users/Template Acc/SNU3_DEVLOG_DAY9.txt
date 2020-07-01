@@ -1,0 +1,3 @@
+SNU 3.0 Developer log day 9
+Today, I worked on the connection between SNU 2 and SNU 3. I didn't do anything else
+Sean Patrick Myrick on February 8th 2019

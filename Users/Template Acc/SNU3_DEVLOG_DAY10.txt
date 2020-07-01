@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 10
+Today, I finished up the script file connection for SNU 2 between SNU 3. I also began to work on a new feature called "legends of the internet"
+It is a series that goes over revolutionary content on the internet that made an impact
+Sean Patrick Myrick on February 9th 2019

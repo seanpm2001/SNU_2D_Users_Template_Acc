@@ -1,0 +1,5 @@
+SNU 3.0 Developer log day 8
+Today is the first day of the second week of development. Honestly, I think these burnout periods I am experiencing are actually helpful, as it spans out more time for me to implent and think of new ideas and ways to shape SNU into the way I want it to be
+This is just the very tip of the iceberg, but this site has so much potential
+Today, I worked on hyperlinks through multiple files and setting up "index bases" in the SNU 2 folders so SNU 3 can have easy access to the legacy version
+Sean Patrick Myrick on February 7th 2019

@@ -1,0 +1,5 @@
+SNU 3.0 Developer log day 16
+Today was a pretty good day in development. I was able to do a lot. I added a home page for the game Façade, and I actually made a working update log that is up to date. I got burnt out really bad at the end, hopefully tomorrow is better
+There are just so many files, it is getting hard to manage, and folder switching is difficult too due to HTML limitations
+I got a temporary burn-out on the project for the first time in 4 days, I just need a small break
+Sean Patrick Myrick on February 15th 2019

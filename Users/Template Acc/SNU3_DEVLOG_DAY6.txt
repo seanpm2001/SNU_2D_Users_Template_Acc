@@ -1,0 +1,4 @@
+SNU 3.0 Developer log day 6
+Sorting is taking forever now. I managed to add in all the new sections, there are 123 total sections as of right now. Also, yes I am aware that there is a duplicate [downloads] link in the profile, but to fix that within 123 different documents, that would take WAT too long
+At least today was a better development day than yesterday
+Sean Patrick Myrick on February 5th 2019

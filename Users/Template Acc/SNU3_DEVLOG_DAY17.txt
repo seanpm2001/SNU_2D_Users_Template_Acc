@@ -1,0 +1,5 @@
+SNU 3.0 Developer log day 17
+After some research, I decided that I need to put a little less focus on customizing menus and such and work on making the foundation for a good algorithm. There are lots of variables and conditions that go into the SNU algorithm, and it is going to take YEARS to implemeent
+I am really hoping I don't have to make another re-write, 3 versions is already alot. It took Microsoft 3 tries for Windows, and they got it on the third try. I haven't been as lucky yet, however none of my projects have been publically released
+SNU 3 has a chance, maybe even SNU 1 if Google can give me my website back already. It just won't let me download it
+Sean Patrick Myrick on February 16th 2019

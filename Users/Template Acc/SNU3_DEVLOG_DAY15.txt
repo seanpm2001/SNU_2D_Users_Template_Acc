@@ -1,0 +1,6 @@
+SNU 3.0 Developer log day 15
+I have now reached the point with this site where it is as functional as SNU 1. I can legitimately say I am browsing SNU. However, this is just the structure. The fun part comes later. However, I haven't outperformed the original SNU yet, however some of its content is finally over to the new site
+Today, I worked on making alternates to the rich formatting versions of specific pages, increasing documentation, and working on blogs. I got a lot done again today as well. I also updated the site to version 3.04 and added Big Buck Bunny content in. Since I added over 10 gigabytes today, I have decided I will follow a new update schedule:
+I will continue working on the site daily, but I can't make an entirely new version all the time. I can only make a new version every 4 months. This is to conserve the last 490 Gigabytes on my laptops hard drive. This is the way it will be until I get a new computer or a better spot for memory
+It's valentines day today btw
+Sean Patrick Myrick on February 14th 2019

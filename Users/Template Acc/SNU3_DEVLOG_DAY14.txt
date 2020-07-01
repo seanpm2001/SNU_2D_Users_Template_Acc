@@ -1,0 +1,6 @@
+SNU 3.0 Developer log day 14
+I had a pretty productive day today. I got alot done in all my projects. I have been mainly working on documetation. I finished up current 4Chan documentation with the resources I currently had, and I also worked on Twitter, FaceBook, and Tumblr
+So if you noticed with build 3.03 I have been relying heavily on Internet Historian for a lot of documentation. It is one of the easiest resources I have access to, and he does a good job at it. In the future, I will showcase other people
+I also added a little bit of reddit and Vinesauce into internet legends
+Overall, today was a very good day
+Sean Patrick Myrick on February 13th 2019

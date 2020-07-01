@@ -1,0 +1,5 @@
+SNU 3.0 Developer log day 7
+The first week of development has finished and I have laid a pretty good foundation
+I have been getting a lot of progress with new settings, currently, I am working on cloud storage and personalization settings
+I also created my first HTML stylesheet today, then I got burnt out as soon as I figured out how to connect a hyperlink
+Sean Patrick Myrick on February 6th 2019

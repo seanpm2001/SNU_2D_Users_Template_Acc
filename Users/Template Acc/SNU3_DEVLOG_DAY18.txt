@@ -1,0 +1,6 @@
+SNU 3.0 Developer log day 18
+I am really happy with the complete makeover of the start page yesterday. It looks great. Today, I re-implemented some older SNU features such as gilding, achievements, and leveling up. I also did a little maintenance to the Valve legends page
+I have finally started taking snapshots of separate files on these builds. I should have done this sooner. Now I can make updates to pages separately without copying over the entire directory, which is over 15 gigabytes, and that is not an option anymore due to the space required for frequent backups
+Snapshots are now another new way to view older versions of a page, while keeping the modern page in-tact
+I went to test Google sites downloading again today. I downloaded the old, old SNU, but not the version 1. Still waiting on that. At least we have SNU 0.1 now
+Sean Patrick Myrick on February 17th 2019
