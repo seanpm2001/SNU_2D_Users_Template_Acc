@@ -1,0 +1,9 @@
+SNU developer log day 398
+
+I stayed home today since my whole family called in sick. I slept in a bit, and had more time to relax, and didn't work on SNU as much. Today I did a general update. For the update log, I am changing the usual syntax again to better suite exported documents. I also added snapshots 501 to 600 to the update log snapshot section.
+
+Along with documentation, today I also worked on a SourceBase update, a set of protest tools for the site manager of a SNU distribution to protest world events, and an update to the ideaboard. I was a little tense while working today, and I had some issues getting to work on my first 2 attempts, but I did well on the 3rd attempt. I am unsure what tomorrow will be like.
+
+I left the protest toolkit part unfinished today. I also noticed that I have been using the wrong version of Sourcebase for new pages for a while now. I hope I can do better tomorrow.
+
+Sean Patrick Myrick on March 3rd 2020

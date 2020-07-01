@@ -1,0 +1,9 @@
+SNU developer log day 424
+
+I created a smaller update today. Originally, I planned on updating CardStack today, but I really didn't feel up to it, and I didn't have the time either. I worked on a new setting today for the digital cursor, and also created a news center with 1 starter article. I also did documenttion, but tht is pretty much it for the day. I hope tomorrow can go better, but I also have more online schoolwork starting either tomorrow, or some other time this week. My motivation for this project has been down for a while, but I will not abandon it at this point.
+
+The SNU Update log has become massively bloated, and I have an experimental idea for a fix to the issue, which is to create a separate update log with all comments over 50 bytes removed, since I can't remove them from the current version due to a rule I made. The update log is over 3 megabytes in size now, and it has been lagging more and more lately. Today was a short day for development.
+
+A little side thing, but OneDrive completely failed me earlier today and gave false image errors, which caused me to abandon it and just use an SD card. I won't use cloud services as heavily anymore, and will likely start using them again when SNU has the functionality to do so. I will still use it for very small things, like note transfers (which are normally 0.1 to 20 kilobytes in size, and it isn't worth all that on the SD card transfer for these files multiple times a day.
+
+Sean Patrick Myrick on March 29th 2020

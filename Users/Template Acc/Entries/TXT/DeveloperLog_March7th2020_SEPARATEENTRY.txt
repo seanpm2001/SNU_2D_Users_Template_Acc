@@ -1,0 +1,9 @@
+SNU developer log day 402
+
+I was going to do some volunteering this morning, but I slept in too late. Last night, I worked hard for hours on the website, but was not able to get everything done by 10:04 pm. The only thing that was left out yesterday was an update to the Firefox browser sniffing script. Today, I will visit my friend Michael at 4:00 pm, so I have to get some development done beforehand again.
+
+I stumbled across some things I forgot to do, such as create a Brave browser sniffing script, and snapshot the Week 57 blog on the same day of creation. I corrected those issues today, and I also worked on the usual documentation, and another major BrowserNose update, with new graphics and documentation. Today was a decent day for development, I took it easier today.
+
+Testing for browser sniffing scripts has stopped on the Update log for now, and is being continued on the BrowserNose homepage.
+
+Sean Patrick Myrick on March 7th 2020

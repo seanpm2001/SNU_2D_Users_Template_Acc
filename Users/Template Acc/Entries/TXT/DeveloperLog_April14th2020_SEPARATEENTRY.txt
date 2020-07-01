@@ -1,0 +1,7 @@
+SNU developer log day 440
+
+I had a bad day today, and I wasn't able to do as much as I wanted. It feels like the school is making a bomb threat at me, they have only given me 2 assignments this week, and during Spring Break, they made a phone call, saying if I didn't get online and do work, I wouldn't graduate, even though there was no new work that week. I also had horrible focusing issues, only getting to work on my website past 3:30 pm (despite waking up much earlier) just like the slightly distant unproductive era, which I do not want to go through again.
+
+Today, I didn't have time to work on the COVID-19 article, or make a full Internet Museum update like I wanted, but I did produce a major feature: which is the SNU Internet Front, a movement to protect the Internet. I will be working alongside Mozilla, EFF (Electronic Frontiers Foundation), and other organizations that support Internet rights. I did the usual documentation changes, and made a small to the SNU Internet Museum, and a captions update for the SNU video player. Today wasn't the best day for development, I hope I can improve.
+
+Sean Patrick Myrick on April 14th 2020

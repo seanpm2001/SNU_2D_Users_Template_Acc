@@ -1,0 +1,7 @@
+SNU developer log day 397
+
+I woke up early today, and got more done before school. It feels good waking up early again, and I hope I can continue to do so. Today, I worked on some planned features from yesterday, such as an ideaboard update, update to blog pages, a new license, and browser sniffing scripts, along with the usual general documentation.
+
+I am really proud of the new document system. I also came up with an idea for the ideaboard for today and tomorrow again. With the amount of commits related to document exporting, the commit numbers will seem a lot higher from now on, and this will be a normal thing.
+
+Sean Patrick Myrick on March 2nd 2020

@@ -1,0 +1,7 @@
+SNU developer log day 396
+
+I had a difficult day today, and a little bit of a difficult weekend. I wasn't able to get any special tasks done, other than what I normally do. I was going to try and back up my hard drive today, but I decided that my laptop still has enough space (170 Gigabytes of 1 TeraByte) so I held it off. I had little time to work on the site today originally, but I had to take out the rest of my major opportunities to relax, so I could get something done, and still wake up on time for school tomorrow.
+
+Today, I worked on a basic documentation update, with the new separate blog system, an update to the ideaboard, an update to the browser nose project, and an update to the HTML Test reference system. I have school again tomorrow, and I want to continue daily site updates. Today was a decent day for site development.
+
+Sean Patrick Myrick on March 1st 2020

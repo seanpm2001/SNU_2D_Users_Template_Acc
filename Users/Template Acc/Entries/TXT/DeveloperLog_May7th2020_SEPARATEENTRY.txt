@@ -1,0 +1,7 @@
+SNU developer log day 463
+
+I had a decent day with development today. My procrastination is starting to go away, and I made a huge accomplishment last night for a personal project: I finally finished converting a nearly 13000 line text file into HTML, and turned it into a functional tool for myself. For website development today, I continued what I have been doing lately, I am near completion on the project.
+
+I am getting very close to completion. I don't know exactly how far back the entries go at the moment, and this might slow me down. After this, I still have weekly entries to do, and some day in the future, exports. Today was an OK day for development. Things should change soon, I have exported a years worth of update log and developer log entries now.
+
+Sean Patrick Myrick on May 7th 2020

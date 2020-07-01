@@ -1,0 +1,7 @@
+SNU developer log day 447
+
+I was doing a lot better today, I was a little tense at times. I was able to get started on many different projects that I wanted to do yesterday. I didn't do all the projects though. Today I did documentation, and I created a new tool that will delete, create, and manage snapshots on a SNU distribution. It is written in Python, my knowledge in Python was rusty on just a few things, but after figuring out integers, and how to define functions. The tool is in its most basic form, I don't have anywhere to test the delete function I am adding in yet. Today, I also worked on a BrowserNose update, and created an updated Firefox sniffing script (still mainly a template) and created a questionarium center, a place to ask lots of questions at once. I also updated the ideaboard, and created 10 more pages for separate developer log and update log entries.
+
+I would do more today, but I am not feeling completely OK. I also don't want to overload myself. Today was a decent day for site development, but hard to manage, as I had a lot of tension. The ideaboard is getting updates again as well, I will continue this for a while.
+
+Sean Patrick Myrick on April 21st 2020

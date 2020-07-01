@@ -1,0 +1,7 @@
+SNU developer log day 448
+
+Today is Earth day. I didn't have as much development time, as I had to do schoolwork as well, and I was also really tense and distracted. I worked on an update to the set of Earth day pages today, along with the usual documentation. I also finally made an update to the Server Essentials. I have a set of tasks that I have been trying to keep up with. I have 3 comment sections that I carry along on the update log, but it is mostly the middle one now, as I don't put as much focus on the other ones. It is a pretty full list at the moment, and I am trying to do everything I can by myself. Today with documentation, I did a much needed update to the developer log, so that it can reach past April of this year (up to June 15th 2020, the day after SNU 3.0.7 begins development) and I created 10 more separate entry pages for older SNU Developer log entries. As I am clearing more of these posts comments, the comments are less and less bulky, and the update log is going to start rising in size again soon.
+
+I am going to update the Ideaboard more often now, as I haven't been adding enough to it, and my ideas need to have more explanation, so that they can be implemented better. It is also a vital site development page. I am working on balancing my schedule, it is a bit difficult, but I am pulling through. Site development was good today.
+
+Sean Patrick Myrick on April 22nd 2020

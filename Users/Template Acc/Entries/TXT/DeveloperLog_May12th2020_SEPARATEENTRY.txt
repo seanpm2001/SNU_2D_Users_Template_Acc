@@ -1,0 +1,7 @@
+SNU developer log day 468
+
+I made a big error yesterday, I forgot to change the text March to February for all February developer log entries for 2019 entry pages. I didn't make this error on the update log, I noticed in time for it, but it was too late for the developer log. I have finally reached the end of the project. I have gotten all the separate entres for specific days of the update log and developer log into separate files, and tomorrow, I will finalize it for now by getting weekly entries (there are 56 of them) and update log entries (there are 4 of them)
+
+I decided to hold off the final separate update log entries for tomorrow or a later day. I am going to switch back to normal site development soon. Today was an OK day for development.
+
+Sean Patrick Myrick on May 12th 2020

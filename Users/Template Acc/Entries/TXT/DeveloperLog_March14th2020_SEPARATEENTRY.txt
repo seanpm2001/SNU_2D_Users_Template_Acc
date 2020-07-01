@@ -1,0 +1,7 @@
+SNU developer log day 409
+
+Today is Pi day. I took a day off site development until nighttime, but then got stomped by Microsoft forcing the Windows 10 1909 update on me when I was trying to finalize work for the night. I tried for 6 minutes to cancel the 1 hour auto update, but failed, and had to do todays entire update in less than 54 minutes. I started work at the Humane Society this morning, and took a day to relax and do other things.
+
+Today, I wanted to make a better update for the Pi day page, but I will have to hold off the finalization for 3.15. I at least got the work started. I didn't have too much planned for today, so I was still able to do everything I wanted to. I am hoping the update doesn't break my computer, and I will try to make a better update tomorrow. My school has been suspended for 6 weeks over COVID-19, and I don't have to go in Monday. I am hoping this doesn't affect my graduation.
+
+Sean Patrick Myrick on March 14th 2020

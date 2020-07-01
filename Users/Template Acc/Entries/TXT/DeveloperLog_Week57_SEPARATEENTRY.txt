@@ -1,0 +1,58 @@
+SNU developer log Week 57
+SNU developer log day 393
+
+I created another small update today, getting an idea out, doing the usual documentation, and updating the browser sniffing scheme. I added support for 2 new browsers: the Android Stock Browser and Pale Moon.
+
+I might not do as much this weekend, as I have a lot planned other than website development. I am throttling how much I add at the moment, so I can keep the ball rolling. Today was a decent day for site development.
+
+Sean Patrick Myrick on February 27th 2020
+SNU developer log day 394
+
+I had a shorter day with development today. I did more research, and got preparations ready for tomorrow. I still have a lot planned this weekend, so these items I put for tomorrow may last all weekend. Lately, I have been putting comments on things for the next day ahead, so for example, on Sunday, I can plan on what to do for Monday.
+
+Today, I worked on the usual documenation (update log, developer log, version history) along with an update to the BrowserNose homepage and repositories, and the debranded page index. I made separate versions of Sourcebase (1.0 to 1.12, HTML) to have no references to SNU branding.
+
+The update log surpassed 41500 lines of code today, it is the most advanced page on this site still. I am unsure when it would be big enough to slow down my IDE. It currently hangs when typing tags sometimes.
+
+Today was a decent day for development. Tomorrow, I plan on visiting my friend Michael at 4:00 pm, and other plans for the weekend include a hard drive backup, and the things I normally do.
+
+Sean Patrick Myrick on February 28th 2020
+SNU developer log day 395
+
+I worked on another update today, and had a little more time to do so. My friend Michael wasn't available today, so I didn't go see him. Today, I am working with a new goal, which is to make separate update log and developer log entries again. This time, I feel that I can keep up with it.
+
+Along with this, I added browser sniffing support for SeaMonkey and Microsoft Edge, did the normal general documentation, updated the ideaboard, and created a page for leap day.
+
+Without the extra time I had today, I would not have been able to finish the update. I had a lot of downtime today to relax.
+
+Sean Patrick Myrick on February 29th 2020
+SNU developer log day 396
+
+I had a difficult day today, and a little bit of a difficult weekend. I wasn't able to get any special tasks done, other than what I normally do. I was going to try and back up my hard drive today, but I decided that my laptop still has enough space (170 Gigabytes of 1 TeraByte) so I held it off. I had little time to work on the site today originally, but I had to take out the rest of my major opportunities to relax, so I could get something done, and still wake up on time for school tomorrow.
+
+Today, I worked on a basic documentation update, with the new separate blog system, an update to the ideaboard, an update to the browser nose project, and an update to the HTML Test reference system. I have school again tomorrow, and I want to continue daily site updates. Today was a decent day for site development.
+
+Sean Patrick Myrick on March 1st 2020
+SNU developer log day 397
+
+I woke up early today, and got more done before school. It feels good waking up early again, and I hope I can continue to do so. Today, I worked on some planned features from yesterday, such as an ideaboard update, update to blog pages, a new license, and browser sniffing scripts, along with the usual general documentation.
+
+I am really proud of the new document system. I also came up with an idea for the ideaboard for today and tomorrow again. With the amount of commits related to document exporting, the commit numbers will seem a lot higher from now on, and this will be a normal thing.
+
+Sean Patrick Myrick on March 2nd 2020
+SNU developer log day 398
+
+I stayed home today since my whole family called in sick. I slept in a bit, and had more time to relax, and didn't work on SNU as much. Today I did a general update. For the update log, I am changing the usual syntax again to better suite exported documents. I also added snapshots 501 to 600 to the update log snapshot section.
+
+Along with documentation, today I also worked on a SourceBase update, a set of protest tools for the site manager of a SNU distribution to protest world events, and an update to the ideaboard. I was a little tense while working today, and I had some issues getting to work on my first 2 attempts, but I did well on the 3rd attempt. I am unsure what tomorrow will be like.
+
+I left the protest toolkit part unfinished today. I also noticed that I have been using the wrong version of Sourcebase for new pages for a while now. I hope I can do better tomorrow.
+
+Sean Patrick Myrick on March 3rd 2020
+SNU developer log day 399
+
+I had issues with being tense again today. I didn't have to go to school again today, and I took another day off. Today, I did less commits than yesterday, but more work was put into the 24 commits. I worked on an about/credits page, documentation, a new web device manager, and 2 browser sniffing script updates. I also decided to fix the misspell of "entry" in the page/filename of the update log entries from March 4th onward.
+
+I have began planning on April Fools jokes for this year, I came up with another idea based on something I found on GitHub (From r/programmerhumor) this years april fools joke will actually be comedic, and have effort put in, there will be 2 difficulties for it: average computer user, and slightly above average computer user comprehension. This is just the comprehension level.
+
+Sean Patrick Myrick on March 4th 2020

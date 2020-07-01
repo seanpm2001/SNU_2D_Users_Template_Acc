@@ -1,0 +1,7 @@
+SNU developer log day 418
+
+After a long period of small updates, even with my bad schedule today, I was determined to make an update that would strengthen the foundation of SNU further. I started and worked on multiple new parts of the site today, including new audio settings, the homepage of the CompuSmell project, updates to the translation service, updates to the anti-sucide page, documentation changes, and updates to the SNU online school system, all in one day.
+
+I worked on 6 different projects today (7 if you count file exporting) I still have more planned, I just need to find good days to do it. Today, I made many changes to these pages, and added new ideas in. Site development is still a little slow at the moment, but I am still working on my schedule, and my motivation. I am still working on the foundation of this website, and it is taking a long time to do so by myself. I really feel like I need a break, but I want to keep the daily streak going, and I have no-one to cover for me. Even with all the new features, I feel like today is only a decent day for site development.
+
+Sean Patrick Myrick on March 23rd 2020

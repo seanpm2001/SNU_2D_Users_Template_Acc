@@ -1,0 +1,7 @@
+SNU developer log day 473
+
+I managed my time better today, so I could have just enough time to put out the update that should have been made 2 days ago. I am going to work on improving this more and more, so I can get a consistent update schedule again. There isn't that much that I can tzlk about that is interesting in the developer log lately, I am just trying to keep the documentation consistent. Development will get interesting again after I finish this massive export project.
+
+Development will get more interesting again soon, after I finish the export project. I have some major plans that I have held off. This export project was originally intended to finish before the middle of May 2020, but it didn't. I wanted to have some time to do the usual development again before school ended, there is only like 10 more days left in my senior year before I graduate, that is another thing I have to balance, but there isn't that much work, and the work is pretty easy. Today was an Ok day for development.
+
+Sean Patrick Myrick on May 17th 2020

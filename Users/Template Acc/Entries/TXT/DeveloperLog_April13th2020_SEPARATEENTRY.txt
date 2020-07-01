@@ -1,0 +1,7 @@
+SNU developer log day 439
+
+I had a successful day with development. I accomplished many small tasks, but failed on some. I did a small update to the Greylist to fix a major loophole for companies that I haven't added to the list. I also updated the privacy initiative homepage to include support for new articles, a mission section, and a new Favicon. I did documentation (as usual) and I also did a cluster of updates to the SNU Internet Museum, getting 4 pages up-to-date, and creating 4 new separate video pages. One of the 2 things I failed on today, was getting the official SNU video player to have support for Subtitles (just for the labels to show up) but I wasn't even able to accomplish that. Also, In the end, I didn't have enough time to make a proper update to the COVID-19 article.
+
+For the subtitle issue, I am hoping it doesn't take me another month or longer to find out why the dropdown isn't showing up in the video player. I have some work to do to the subtitles, a well as adding new ones. I am also going to produce a better test video. I didn't receive that much online work today, and development went smoothly. I was able to get some work done, making it a decent day for development.
+
+Sean Patrick Myrick on April 13th 2020

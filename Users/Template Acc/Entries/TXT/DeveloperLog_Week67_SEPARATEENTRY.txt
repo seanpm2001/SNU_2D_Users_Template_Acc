@@ -1,0 +1,51 @@
+
+SNU developer log Week 67
+SNU developer log day 463
+
+I had a decent day with development today. My procrastination is starting to go away, and I made a huge accomplishment last night for a personal project: I finally finished converting a nearly 13000 line text file into HTML, and turned it into a functional tool for myself. For website development today, I continued what I have been doing lately, I am near completion on the project.
+
+I am getting very close to completion. I don't know exactly how far back the entries go at the moment, and this might slow me down. After this, I still have weekly entries to do, and some day in the future, exports. Today was an OK day for development. Things should change soon, I have exported a years worth of update log and developer log entries now.
+
+Sean Patrick Myrick on May 7th 2020
+SNU developer log day 464
+
+I have been putting more time into a web application for personal use, so that I don't become rusty with web development while SNU development remains light. This project has been getting a lot of work put into it again; lately. For SNU, I am in the final months of the separate update log and developer log exports. It should come to a close within the next week, but then I also have to do weekly entries as well.
+
+I am worried about what it is going to be like getting back into SNU development and innovations (other than what I have been doing for a few weeks now) after I finish. I haven't innovated SNU in nearly a full month now. Today was an OK day for development, but the same thing as yesterday was done again today.
+
+Sean Patrick Myrick on May 8th 2020
+SNU developer log day 465
+
+I did the usual thing with development again today. I have been putting extra time into other projects, but I am having a serious issue with procrastination. I received a new item today: a green screen. I have a plan for it for another project, but I might use it for SNU content at some point.
+
+I am not sure how things are going to go once I complete this big project. Today was an OK day for development. I don't have much else I can say.
+
+Sean Patrick Myrick on May 9th 2020
+SNU developer log day 466
+
+Today is Mothers day. I did the same thing as usual with site development, but this usual cycle is going to end soon. I am really close to completing it. This will involve another schedule change once I finish this project, hopefully an even-better optimized schedule will come. If you haven't been reading the entries of the update log, the current normal is documentation, ideaboard updates, and exporting 20 update log and 20 developer log entries from the past all the way down to January 31st 2019. I am getting close to reaching this goal.
+
+I would create a page for mothers day, but I don't have the time or resources to do it right now, so I will write a late mothers day page after I finish the export project. Today was an OK day for development.
+
+Sean Patrick Myrick on May 10th 2020
+SNU developer log day 467
+
+I am really close to finishing the current external entry page. Today, I did the last of the daily update log entries (I wasn't planning for it to line up directly with an even number divisible by 10) developer log entries will take a while longer still, and there are a few extra update log entries (pre-3.0.4 entries) but it should barely take that much time to finish.
+
+I have been making lots of progress on my other projects, I hope to keep this new schedule going. I woke up a few hours earlier today and got a lot more done. Today was a decent day for development, decent because I finally finished part of the export project.
+
+Sean Patrick Myrick on May 11th 2020
+SNU developer log day 468
+
+I made a big error yesterday, I forgot to change the text March to February for all February developer log entries for 2019 entry pages. I didn't make this error on the update log, I noticed in time for it, but it was too late for the developer log. I have finally reached the end of the project. I have gotten all the separate entres for specific days of the update log and developer log into separate files, and tomorrow, I will finalize it for now by getting weekly entries (there are 56 of them) and update log entries (there are 4 of them)
+
+I decided to hold off the final separate update log entries for tomorrow or a later day. I am going to switch back to normal site development soon. Today was an OK day for development.
+
+Sean Patrick Myrick on May 12th 2020
+SNU developer log day 469
+
+I had very little time for development today, as I allocated a lot of time to other projects. Today, I continued the separate documentation project, now going for weekly entries. I got 10 done today, I will try to do 20 tomorrow, if I have the time. I have been putting tons of time into another project, it has been updated on a daily basis for 12 days now. I won't drop support for SNU over this, but I almost have this project in a fully working state.
+
+SNU 3.0.7 will be coming up in a little over a month, and normal site development should begin again soon. Today was an OK day for development.
+
+Sean Patrick Myrick on May 13th 2020

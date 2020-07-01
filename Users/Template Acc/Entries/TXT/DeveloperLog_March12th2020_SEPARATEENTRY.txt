@@ -1,0 +1,7 @@
+SNU developer log day 407
+
+I was sick again today. I stayed home due to this. Our state recently went into Stage 3 for the COVID-19 pandemic, and it might reach stage 4 soon, as it was only stage 2 just a week ago. I have been struggling to update lately die to the CPU issue, and now my computer wants to install the 1909 update of Windows 10, but for once I have the option to delay the installation. I am finding info and time for it, so I can stay somewhat secure before I switch to Linux. Due to these issues, I didn't have much planned for today, so it is just another filler update, but with another new section of the site: the SNU Font Mill
+
+I created a font center today so I can store and test various fonts, including those not yet downloaded by the browser. One of the directory changes that comes with this is a naming change, where lib is spelled as "LIBrary" this is to help aid newer programmers to learn that the term means Library even faster than I did (it took me a few years of computing before I bothered to look it up) This is also helpful if they were to forget. The font mill will be part of 2D mode, but the fonts will be in the root of the distribution. I also did more document exporting today, and documentation changes, but that was it for today. I didn't want to overload myself. i just have a cold, I have had it for a few days now, but it keeps getting worse. It is mainly just stuffy nose with a bad sore throat. I will be fine.
+
+Sean Patrick Myrick on March 12th 2020

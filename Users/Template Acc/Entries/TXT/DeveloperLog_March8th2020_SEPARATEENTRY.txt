@@ -1,0 +1,9 @@
+SNU developer log day 403
+
+I didn't do as much with development today. Window 10 has been a pain for me lately, I have to suffer with it for years as it gets worse and worse. I hope to switch to Linux when possible. Today, I have had excessively high CPU usage (50-80% at all times) from system processes that don't need to be running. It has drained my battery significantly, and wasted a lot of my time. It didn't let me do as much.
+
+Today, I did some tweaks to the sites browser sniffing functions, along with the homepage. I also did some slightly above average documentation improvements. I go back to school again tomorrow, and I really hope battery doesn't prove to be an issue again.
+
+I plan on doing new things again tomorrow. The time skipped forward by an hour today, so I lost an hour of development time as well. I really don't know why daylight savings time is still a thing.
+
+Sean Patrick Myrick on March 8th 2020

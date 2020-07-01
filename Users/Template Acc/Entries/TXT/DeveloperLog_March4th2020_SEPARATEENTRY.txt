@@ -1,0 +1,7 @@
+SNU developer log day 399
+
+I had issues with being tense again today. I didn't have to go to school again today, and I took another day off. Today, I did less commits than yesterday, but more work was put into the 24 commits. I worked on an about/credits page, documentation, a new web device manager, and 2 browser sniffing script updates. I also decided to fix the misspell of "entry" in the page/filename of the update log entries from March 4th onward.
+
+I have began planning on April Fools jokes for this year, I came up with another idea based on something I found on GitHub (From r/programmerhumor) this years april fools joke will actually be comedic, and have effort put in, there will be 2 difficulties for it: average computer user, and slightly above average computer user comprehension. This is just the comprehension level.
+
+Sean Patrick Myrick on March 4th 2020

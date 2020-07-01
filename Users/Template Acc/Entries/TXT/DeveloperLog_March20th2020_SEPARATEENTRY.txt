@@ -1,0 +1,7 @@
+SNU developer log day 415
+
+Tomorrow is my birthday, I got a restock on my medication today, so I was able to work on site updates. My "anti"virus, AVG (installed out of desparation, but now has just been a pain for a year) today decided to start automatically start quaranting PDFs, whether they are downloaded or created. Specifically 1 PDF, which was the Wikipedia resource I was using for suicide prevention numbers. Other PDFs seem fine, and it is saying that this is particularly not secure, and I don't believe it. Even when copying the text itself, and exporting it, it still detected the PDF, but not the other 7 copies of the same file. It was annoying. I have rambled a little too long on that.
+
+Today, I worked on further updates to the suicide prevention page, and documentation, but that is pretty much it. I wasn't too into site development tomorrow, and I needed time to relax. I have been doing small things lately, and hopefully after tomorrow, I can start to do big things again. Today was a somewhat decent day for development.
+
+Sean Patrick Myrick on March 20th 2020

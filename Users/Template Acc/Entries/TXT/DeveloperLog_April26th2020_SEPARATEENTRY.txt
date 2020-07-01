@@ -1,0 +1,7 @@
+SNU developer log day 452
+
+I woke up really early today, and got a lot more done on other projects. I took a lot of time to relax and enjoy outside today, as I haven't been outside enough lately. Today, I did some changes to the HTML Test References page, I wrapped up development too early last night and forgot to do 3 pages to the homepage: add graphics, add a sidebar, and add a topbar (top navigation bar) other than that, I did some documentation, and made a web art page with the marquee tag, making a row of stars that collides. I didn't do anything else today.
+
+I completely forgot that yesterday was the 1 year anniversary of the ideaboard, and I had no ways of celebrating it. I will try to think of something. Today was mainly a documentation day as usual, but my schedule is changing more and more each day and might soon see an overhaul, as I keep working later and later. Today was an OK day for development.
+
+Sean Patrick Myrick on April 26th 2020

@@ -1,0 +1,9 @@
+SNU developer log day 455
+
+I had less time to work today, but I was able to better focus with the time I had today. I had to do some schoolwork, and I was also really distracted earlier. I am excited to implement a voice function system, but I haven't had time to begin working on the IDE yet. Today was day 2 with the doubled workload on separate update log and developer log entries. I got the same amount of work done on the website today as I did yesterday. I had to do some schoolwork today, so I had less time.
+
+I have some even bigger plans for the ideaboard now, I plan on making a separate entry system for the ideaboard as well, but it will be a little more complicated to do, since some days have multiple ideas, some days have no ideas, and the idea titles can change. I have to try and finish the current project with update log and developer log entries first, I forgot about weekly entries, and I am trying to find time where I can start adding older weekly entries in. Today was an OK day for development.
+
+I noticed that I forgot to create November 2nd 2019 separate entries yesterday, so I did it today. I hope to not make errors like this again, it was a miscalculation.
+
+Sean Patrick Myrick on April 29th 2020

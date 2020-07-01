@@ -1,0 +1,7 @@
+SNU developer log day 432
+
+I seem to be getting better and better again lately. I had no tension issues today, and I was really focused while working. I managed to get a lot done again today. I worked on a new video player page, the last test was unsuccessful, but I am going to try harder this time. I also updated the article on Zoom and privacy, and created an article about the Pandemic and privacy. I also began to make a system for SNU that involves encrypting user data, I have found a new effective way of increasing security, which is to automatically reload keys after a set amount of time. This might use up too much CPU and bandwidth for some people, so it isn't forced on the user, it is a choice with settings. I also worked on the Internet Museum again today.
+
+I was inspired to try and do a lot today, and I made some progressive with the 3+ hours I had to work today. I really wonder right now if I am even going to be able to get back into the school schedule again after the quarantine ends. I am feeling even more ready lately to start and expand the development of this project, but I am stuck with waiting until quarantine ends first. The site really has come a long way. It is amazing that it has gotten to this point from the point where it was me just linking files to each other, and using heading tags. This site has greatly expanded my knowledge on web development. Today waa another good day for development.
+
+Sean Patrick Myrick on April 6th 2020

@@ -1,0 +1,9 @@
+SNU developer log day 395
+
+I worked on another update today, and had a little more time to do so. My friend Michael wasn't available today, so I didn't go see him. Today, I am working with a new goal, which is to make separate update log and developer log entries again. This time, I feel that I can keep up with it.
+
+Along with this, I added browser sniffing support for SeaMonkey and Microsoft Edge, did the normal general documentation, updated the ideaboard, and created a page for leap day.
+
+Without the extra time I had today, I would not have been able to finish the update. I had a lot of downtime today to relax.
+
+Sean Patrick Myrick on February 29th 2020

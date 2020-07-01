@@ -1,0 +1,7 @@
+SNU developer log day 464
+
+I have been putting more time into a web application for personal use, so that I don't become rusty with web development while SNU development remains light. This project has been getting a lot of work put into it again; lately. For SNU, I am in the final months of the separate update log and developer log exports. It should come to a close within the next week, but then I also have to do weekly entries as well.
+
+I am worried about what it is going to be like getting back into SNU development and innovations (other than what I have been doing for a few weeks now) after I finish. I haven't innovated SNU in nearly a full month now. Today was an OK day for development, but the same thing as yesterday was done again today.
+
+Sean Patrick Myrick on May 8th 2020

@@ -1,0 +1,7 @@
+SNU developer log day 408
+
+I was home sick again today. I worked on multiple projects today, including another monthly update for my audio index project. I started planning out the next plans for SNU today, while I got caught up on exporting all update log and developer log entries since February 29th 2020 into 8 formats (the newer 4 formats I have been working on exporting are: DOC, DOCX, UOT, RTF) that was finally wrapped up today, and I didn't have time for anything else.
+
+I am going to update my system to Windows 10 1909 soon. I am doing research to ensure it is safe, and seeing if it will break anything any further first. I am hoping this update will be the last one, as I still plan on moving to Linux ASAP. I just have to wait for the next laptop first. Today, I did a very small website update, but I have some upcoming plans for future updates again. Today was just a documentation update day.
+
+Sean Patrick Myrick on March 13th 2020

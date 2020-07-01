@@ -1,0 +1,50 @@
+SNU developer log Week 59
+SNU developer log day 407
+
+I was sick again today. I stayed home due to this. Our state recently went into Stage 3 for the COVID-19 pandemic, and it might reach stage 4 soon, as it was only stage 2 just a week ago. I have been struggling to update lately die to the CPU issue, and now my computer wants to install the 1909 update of Windows 10, but for once I have the option to delay the installation. I am finding info and time for it, so I can stay somewhat secure before I switch to Linux. Due to these issues, I didn't have much planned for today, so it is just another filler update, but with another new section of the site: the SNU Font Mill
+
+I created a font center today so I can store and test various fonts, including those not yet downloaded by the browser. One of the directory changes that comes with this is a naming change, where lib is spelled as "LIBrary" this is to help aid newer programmers to learn that the term means Library even faster than I did (it took me a few years of computing before I bothered to look it up) This is also helpful if they were to forget. The font mill will be part of 2D mode, but the fonts will be in the root of the distribution. I also did more document exporting today, and documentation changes, but that was it for today. I didn't want to overload myself. i just have a cold, I have had it for a few days now, but it keeps getting worse. It is mainly just stuffy nose with a bad sore throat. I will be fine.
+
+Sean Patrick Myrick on March 12th 2020
+SNU developer log day 408
+
+I was home sick again today. I worked on multiple projects today, including another monthly update for my audio index project. I started planning out the next plans for SNU today, while I got caught up on exporting all update log and developer log entries since February 29th 2020 into 8 formats (the newer 4 formats I have been working on exporting are: DOC, DOCX, UOT, RTF) that was finally wrapped up today, and I didn't have time for anything else.
+
+I am going to update my system to Windows 10 1909 soon. I am doing research to ensure it is safe, and seeing if it will break anything any further first. I am hoping this update will be the last one, as I still plan on moving to Linux ASAP. I just have to wait for the next laptop first. Today, I did a very small website update, but I have some upcoming plans for future updates again. Today was just a documentation update day.
+
+Sean Patrick Myrick on March 13th 2020
+SNU developer log day 409
+
+Today is Pi day. I took a day off site development until nighttime, but then got stomped by Microsoft forcing the Windows 10 1909 update on me when I was trying to finalize work for the night. I tried for 6 minutes to cancel the 1 hour auto update, but failed, and had to do todays entire update in less than 54 minutes. I started work at the Humane Society this morning, and took a day to relax and do other things.
+
+Today, I wanted to make a better update for the Pi day page, but I will have to hold off the finalization for 3.15. I at least got the work started. I didn't have too much planned for today, so I was still able to do everything I wanted to. I am hoping the update doesn't break my computer, and I will try to make a better update tomorrow. My school has been suspended for 6 weeks over COVID-19, and I don't have to go in Monday. I am hoping this doesn't affect my graduation.
+
+Sean Patrick Myrick on March 14th 2020
+SNU developer log day 410
+
+The update took until 1:30 am this morning. I managed to get everything required done, and the update has fixed my CPU problem, which I am really surprised by. Today, I had some ideas, and I began implementing them. I updated the Pi day page to wrap up work from yesterday, I did the usual documentation, and I began work on a new translation tool today.
+
+I was going to do work on the language tag test page, but I decided to hold it off. I am getting used to the new system update, and taking time to relax today. I also need more time for the translation tool. I am surprised I didn't start work on the translation tool earliert, it is a big thing that I missed. Today was a decent day for development.
+
+Sean Patrick Myrick on March 15th 2020
+SNU developer log day 411
+
+I continued work on language features again today. I have failed to bring this up for a while now, but SNU is starting to get really cluttered, and more difficult to work with. I started out with a short todo list in December of 2019, and now I have 3 ToDo lists (they are comments in the source code of the update log) they started small, but now it is an extra 8+ kilobytes and over 200 lines a day, and the majority of it is going unfulfilled. I am working on the issue now, and will try to find a way to better sort this info.
+
+Today I worked on the new translation service again, along with an HTML test reference page of the ISO language codes. I also did the usual documentation changes, and got a little done. Development is a little slow at the moment, I am working out my schedule, and working on many projects. I have 6 weeks off from school now due to the COVID-19 outbreak, and I just solved a technical issue that altered my performance at school. Today was a decent day for development, but I just need more to do.
+
+Sean Patrick Myrick on March 16th 2020
+SNU developer log day 412
+
+I didn't have as much time today, and I am halfway operational, so I made a small update today. I woke up late, started playing late, and had an appointment in the middle of the day, and I decided to relax for 3 hours afterwards. I am also trying to go to bed earlier, so I only had an hour to work today. I didn't want to end my update streak.
+
+I have been planning on doing something witb the tel: attribute at some point, but I am trying to figure out how everything works. Today, I didn't have as much time to update, so I mainly worked on documentation, with a small update to the translation service homepage. Hopefully tomorrow will go better.
+
+Sean Patrick Myrick on March 17th 2020
+SNU developer log day 413
+
+I had more time today, but I was also halfway functional again as well. Today, along with documentation and work on another translation tool update, I made my first use of the tel: attribute, and created a functional suicide prevention center. If the hotline numbers just don't work for people, there is built-in info on why you shouldn't kill yourself, based on personal experience.
+
+Today was another simple update day. I am slowly working on adding new features, at the moment I am putting some time into a translation service on a daily basis. I also am going to start online classes soon, once the links are fixed and don't lead to a 404 page. Site development is a little slow at the moment, and I have managed to keep development going on a daily basis for 3 months now. Today was a decent day for development.
+
+Sean Patrick Myrick on March 18th 2020

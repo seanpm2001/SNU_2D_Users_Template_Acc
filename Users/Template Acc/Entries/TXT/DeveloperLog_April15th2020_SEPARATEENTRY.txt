@@ -1,0 +1,7 @@
+SNU developer log day 441
+
+I didn't feel like doing too much with SNU today. I have other projects to work on, including schoolwork, and I want to put more effort into a single SNU feature today, rather than ahve many features. Today, I did documentation updates, and also worked on addressing a privacy issue with the White, Black, and Greylist system. But today, I mostly focused on improving the SNU video player. I finally found the source src of the issue of why the subtitles won't show up (the button) I was missing a src attribute after the original source tag. I still have to figure out how to address the caption security issue first before they can even show up, and I need to figure out how to apply a scrollbar to it, so that subtitles are visible.
+
+I am getting ready to start working on more projects for SNU, but I still need to also find time for personal and life projects. The site has had a slow development rate for a while, but significant changes are being made to the foundation and government. The site is still far from ready, and I am getting it prepared for public demonstration. Today was a decent day for development, mostly for the video player.
+
+Sean Patrick Myrick on April 15th 2020

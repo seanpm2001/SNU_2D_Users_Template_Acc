@@ -1,0 +1,53 @@
+SNU developer log Week 65
+SNU developer log day 449
+
+I had a difficult day today. I woke up late, and had a lot less time. I have had a lot of tension lately, and there have been some issues. I had to get out of the house for a bit today. I originally planned in the evening to cancel work on separate documents for the Update log and Developer log to go easy on myself, but I changed my mind. I am upset about yesterday, since I incorrectly labeled the commits for it. This is one of the biggest update log errors I have made.
+
+Today I focused on documentation, and improvement of the ideaboard. I am trying to find something else to do on the site, but I am not having much luck. Development was OK today, but not much was done.
+
+Sean Patrick Myrick on April 23rd 2020
+SNU developer log day 450
+
+I am still deciding on what to do next. I am continuing the creation of separate update log and developer log entry pages for articles before February 29th 2020, but I am doing very little other than that. Today, I did an ideaboard update along with the documentation, plus did some testing of the marquee HTML tag, which is deprecated. I made a joke page about 90s Internet with the style of old Internet pages, as a practice of my skills. I didn't do much today.
+
+There is no need for a bottom description today.
+
+Sean Patrick Myrick on April 24th 2020
+SNU developer log day 451
+
+I created an update similar to recent updates again today. I am having a good time making separate update log and developer log pages. The only major error I made today was forgetting to change the date of the snapshot on the developer log pages. Along with documentation, I also made another ideaboard update, along with some fixes to the HTML Test Reference center, as I noticed some flaws. There was a major English problem on the page for the Blink tag, the grammar was horrendous, and I had to fix it. I also updated the marquee page to include better examples, and documentation. Along with this, I updated the HTML Test References homepage to modernize it. However, there is a CPU issue regarding the usage of iframes, and I am working on finding a fix to this issue.
+
+I worked late in my afternoon session today, and had a relaxed nighttime work session. I did some security research earlier, along with web development research. I have improved significantly in web development since I started the SNU project, but I would also like to stick to computer software development again, so I am taking another course on Python. I found 4 really helpful commands: try, except, finally, and raise. Of the 9+ chapters I did in Python in the 10th and 11th grades, I am really surprised this was never brought up, as I find it extremely useful, and it would have greatly improved my earlier programs. Instead of the program closing and crashing, I can give myself better debug tools, instead of opening and reopening IDLE over and over. I haven't started implementing this into my programs yet, but I will soon on my next Python project. Today was a decent day for site development, it wasn't very hard to work today.
+
+Sean Patrick Myrick on April 25th 2020
+SNU developer log day 452
+
+I woke up really early today, and got a lot more done on other projects. I took a lot of time to relax and enjoy outside today, as I haven't been outside enough lately. Today, I did some changes to the HTML Test References page, I wrapped up development too early last night and forgot to do 3 pages to the homepage: add graphics, add a sidebar, and add a topbar (top navigation bar) other than that, I did some documentation, and made a web art page with the marquee tag, making a row of stars that collides. I didn't do anything else today.
+
+I completely forgot that yesterday was the 1 year anniversary of the ideaboard, and I had no ways of celebrating it. I will try to think of something. Today was mainly a documentation day as usual, but my schedule is changing more and more each day and might soon see an overhaul, as I keep working later and later. Today was an OK day for development.
+
+Sean Patrick Myrick on April 26th 2020
+SNU developer log day 453
+
+I didn't know entirely what to do today. I mostly did a documentation update today, but I also worked on the ideaboard extensively, as a 2 day late celebration of the pages 1 year anniversary. The current documentation project to get separate pages for all update log and developer log entries is going to take too long at the current (31 more, including today) I might need to start doing 40 a day instead of 20 to speed it up, as I want to finish the project further from high school graduation. I enjoy doing it, but this would take away from other updates.
+
+When I get time for more projects again, I am considering updating the Internet Museum again, but I don't want that to be the only thing I do. I was feeling nostalgic today, and I did other things with my time, as I wanted to cherish my nostalgia, I haven't been having that much of it lately. My schedule might change soon, as I need to give it an overhaul. Today was an OK day for development.
+
+Sean Patrick Myrick on April 27th 2020
+SNU developer log day 454
+
+I did a documentation update similar to yesterday today, with a higher emphasis on separate entry pages, and a lower emphasis on the ideaboard. I have decided to boost production and make 40 separate entry pages per day, instead of 20, so I can get this project done 2 times faster. I am still enjoying doing this, and I want to finish before the ending of May 2020, and I need to increase how much I do. The site will receive different updates soon once I get adjusted or finished with this project. I reached a new daily commit record today of 110.
+
+The next big part of this project with the separate entries is exporting, but I won't begin this for quite a while. This part will take far longer, unless I can get a macro tool. Today was just a documentation update day. I have to balance a few projects now, such as an SD card backup in the beginning of May, online school work, and an update to my personal music repository. Today was a decent day for development.
+
+When working on the old blog exportation, I came face to face with a variation of my old style again, and I see how much I have improved. The update log has run out of major comment blocks to remove as of yesterday, the size is going to start increasing again.
+
+Sean Patrick Myrick on April 28th 2020
+SNU developer log day 455
+
+I had less time to work today, but I was able to better focus with the time I had today. I had to do some schoolwork, and I was also really distracted earlier. I am excited to implement a voice function system, but I haven't had time to begin working on the IDE yet. Today was day 2 with the doubled workload on separate update log and developer log entries. I got the same amount of work done on the website today as I did yesterday. I had to do some schoolwork today, so I had less time.
+
+I have some even bigger plans for the ideaboard now, I plan on making a separate entry system for the ideaboard as well, but it will be a little more complicated to do, since some days have multiple ideas, some days have no ideas, and the idea titles can change. I have to try and finish the current project with update log and developer log entries first, I forgot about weekly entries, and I am trying to find time where I can start adding older weekly entries in. Today was an OK day for development.
+
+I noticed that I forgot to create November 2nd 2019 separate entries yesterday, so I did it today. I hope to not make errors like this again, it was a miscalculation.
+Sean Patrick Myrick on April 29th 2020

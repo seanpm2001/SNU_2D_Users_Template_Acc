@@ -1,0 +1,9 @@
+SNU developer log day 406
+
+I am starting to get used to the laptop CPU issue, but it has affected my website development due to time loss and distraction. Today, I didn't do much again, I had less time to develop today, and I just made a few minor changes.
+
+Today, I worked on site settings, improved documentation, and disease research. Nothing else was done today. I have been lacking lately, mostly due to the new CPU issue, but also because of a minor cold. Development should pick back up again soon.
+
+I have plans for the weekend, but school day updates may be a lot smaller. I am actively working on finding a new laptop so that I can have a more functional laptop that runs Linux. If necessary, SNU may need to be rewritten to support Ubuntu/Fedora, the 2 distros I have chosen as candidates to switch to. I really hope it doesn't come to that, as that would take a lot of time to rewrite.
+
+Sean Patrick Myrick on March 11th 2020

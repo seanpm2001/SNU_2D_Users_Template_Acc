@@ -1,0 +1,9 @@
+SNU developer log day 423
+
+I was really out of it today. I was going to do more, but I had some focus issues. I stayed up really late last night, and had difficulty getting to work today. I have been taking too much downtime lately. I still did get some work done today.
+
+Today, I worked on documentation, and some changes to further modernize the SNU internet museum. I have a lot going on at the moment, and it has been difficult going with site development. I am also going to try and learn SQL again soon. Today wasn't a very good day for development, but it was better than nothing.
+
+I was more motivated later in the night, and I am running low on material for the SNU Internet Museum, so unless I come up with something else to do there, I will work on CardStack or something else tomorrow.
+
+Sean Patrick Myrick on March 28th 2020

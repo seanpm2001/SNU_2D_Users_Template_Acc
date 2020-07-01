@@ -1,0 +1,7 @@
+SNU developer log day 458
+
+It is supposed to storm today, and I need to make changes to my schedule, so I got to work extra early today, and tried to finish site development by 3:00 pm. I did the same thing that I have been doing lately again today, just massive amounts of commits via documentation.
+
+There is no need for a bottom description today, not much happened.
+
+Sean Patrick Myrick on May 2nd 2020

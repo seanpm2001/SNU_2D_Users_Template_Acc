@@ -1,0 +1,9 @@
+SNU developer log day 456
+
+There is something I forgot to do yesterday, I did it after wrapping up for the day. I upgraded the snapshot sections for the update log, developer log, and version history page so that they have 1000 snapshots, instead of 600
+
+I had a good day with development. I got work done for school, and also worked briefly on some personal projects. Todays development was similar to yesterdays, except for some new things that were done, such as increasing the snapshot section for the update log, developer log, and version history page from 600 to 1000, and also creating a separate entry page for week 65 of SNU documentation. I have some things I want to try and work on once I get further with this project.
+
+I have been coming up with some ideas that will expand SNU past just being a website engine, to something that is an IoT base. I am considering getting a side job as a documentation writer for VideoLan, as they have been struggling to get someone to document VLC Media Player for a while now, and I would proudly do it, even if I don't get paid. Today was an OK day for development.
+
+Sean Patrick Myrick on April 30th 2020

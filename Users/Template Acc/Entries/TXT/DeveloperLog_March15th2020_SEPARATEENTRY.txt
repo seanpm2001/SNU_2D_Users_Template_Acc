@@ -1,0 +1,7 @@
+SNU developer log day 410
+
+The update took until 1:30 am this morning. I managed to get everything required done, and the update has fixed my CPU problem, which I am really surprised by. Today, I had some ideas, and I began implementing them. I updated the Pi day page to wrap up work from yesterday, I did the usual documentation, and I began work on a new translation tool today.
+
+I was going to do work on the language tag test page, but I decided to hold it off. I am getting used to the new system update, and taking time to relax today. I also need more time for the translation tool. I am surprised I didn't start work on the translation tool earliert, it is a big thing that I missed. Today was a decent day for development.
+
+Sean Patrick Myrick on March 15th 2020

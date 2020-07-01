@@ -1,0 +1,7 @@
+SNU developer log day 400
+
+I didn't have too many unique plans for today. Today, I focused mainly on a browser sniffing script update, with the usual documentation, and I also began planning the April Fools jokes for this year. A lot of progress was made in the field of SNU Browser sniffing today, with support for over a dozen new browsers.
+
+I had an orientation at the Humane Society today, we went an hour early, thinking it was at 4:00 pm, when it was actually at 5:00 pm. It significantly slowed me down afterwards, and I struggled to produce the update that I was planning comfortably. Browser sniffing planning is getting really advanced now.
+
+Sean Patrick Myrick on March 5th 2020

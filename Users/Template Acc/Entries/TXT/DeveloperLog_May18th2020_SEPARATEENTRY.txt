@@ -1,0 +1,7 @@
+SNU developer log day 474
+
+I noticed an error I made a few days ago when exporting yesterday. It appears I created 1 extra weekly entry article for the time I did it prior to yesterday. Week 35 was created before yesterday. I hope to correct these issues in the future. Today, I did the same thing as yesterday, with even better time management, allowing me to work further on other projects and also have an extra 3 minutes for this project. Not that much extra time, but I was more focused.
+
+After today, I only have 2 days left with the separate weekly entry project. I will skip separate blog entry and update log 3.0.3 and below exports and save them for another time, as I want to get back into normal development again. I will finish on May 20th 2020. Today was an OK day for development.
+
+Sean Patrick Myrick on May 18th 2020

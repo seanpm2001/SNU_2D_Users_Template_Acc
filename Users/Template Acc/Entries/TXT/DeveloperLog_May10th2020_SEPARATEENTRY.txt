@@ -1,0 +1,7 @@
+SNU developer log day 466
+
+Today is Mothers day. I did the same thing as usual with site development, but this usual cycle is going to end soon. I am really close to completing it. This will involve another schedule change once I finish this project, hopefully an even-better optimized schedule will come. If you haven't been reading the entries of the update log, the current normal is documentation, ideaboard updates, and exporting 20 update log and 20 developer log entries from the past all the way down to January 31st 2019. I am getting close to reaching this goal.
+
+I would create a page for mothers day, but I don't have the time or resources to do it right now, so I will write a late mothers day page after I finish the export project. Today was an OK day for development.
+
+Sean Patrick Myrick on May 10th 2020

@@ -1,0 +1,7 @@
+SNU developer log day 431
+
+I had a lot more time today, as I started much earlier. I had a lot to do today, and I got more done. Today, along with documentation, I updated the SNU PFOSS Exchange repository, updated the blue screen spoof page from yesterday, created a privacy article, updated the Internet Museum, and created a SourceBase template remix so that I can update SNU more efficiently, without spending extra time modifying the template. I started far before 4:00 pm today, and it caused me to get a lot more done.
+
+For the Blue Screen of Death prank page, I am going to try and get feedback from my brother in law, as he works at Microsoft. I have been having some issues perfecting the page. I think the Windows 8 and 10 errors will be harder to reproduce. I also made some more brandless pages of the site as part of an update to the PFOSS exchange center. I limited how many things I did today so I don't overwhelm myself. Things went very well today. I hope I can continue this trend, and also balance online school better. Today was a good day for development.
+
+Sean Patrick Myrick on April 5th 2020

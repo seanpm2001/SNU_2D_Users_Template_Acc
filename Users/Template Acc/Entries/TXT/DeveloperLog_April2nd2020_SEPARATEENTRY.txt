@@ -1,0 +1,13 @@
+SNU developer log day 428
+
+I wrote a "hidden" comment yesterday about my issues lately and how they benefited the April Fools joke. They actually did. I have been having ongoing severe issues with tension for 3 days now, the first 2 days were intolerable for work. I have had issues with jaw tension my whole life, and I have taken medications for it. There is currently an issue with hypertension that I am working out, but it was good enough today to let me actually work on my website. I had more time to work on it as well, and the sun is finally shining outside again today (it has been hailing and raining a lot lately)
+
+I was going to work on the Internet Museum more today, but I had some other projects I wanted to work on. I thought I started a 3D printing part of the site, but it turns out, I didn't. So today, I added in a 3D printing center to the site, and a place to make puzzles, as VLC has the option, but SNU needs its own puzzle system. I also did the usual documentation, with preparation for the week 61 article to be exported, and also I worked on a few pages on the SNU Internet Museum. Today was a comeback day from 2 days of failure after hypertension in my jaw stopped me dead in my tracks. I hope to continue development strong again tomorrow.
+
+So a change will happen to the developer log soon (before April 25th 2020) I originally tried to have a daily separate blog system back in the beginning of SNU 3 development, but it died off, as it was too hard to manage. I have now been managing a new attempt of this for both the developer log and update log for over a month now, and I have done a great job on it. I will replace the original dead links with a JsvaScript alert, then when I get more advanced, it will just redirect to the dead link if chosen. This is a small change, but it will be the first usage of the JavaScript [alert] element on the developer log.
+
+I did pretty well with site development today. I am starting to get back to site development again. Spring Break is coming up soon, so I will have even more site development time if I can schedule right and keep up.
+
+I was reintroduced to VLC later tonight. After a bunch of fatal crashes last year, I decided to give it a try again this year after accidentally opening a file. It is something I have been missing for a long time. It is the likely missing piece to the lack of happiness I have had for months now. Even with crashes, I am going to keep using it.
+
+Sean Patrick Myrick on April 2nd 2020

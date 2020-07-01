@@ -1,0 +1,7 @@
+SNU developer log day 457
+
+I had a difficult day today. I had a lot going on, and I spent almost 2 hours doing an SD card backup. My laptop has been having a new issue with severe lag lately that lasts for the first 3 hours of use, it seems Microsoft can't get anything right with Windows 10, as it always has some problem. Today, I did the usual documentation update that I have been doing lately, but with even less time. I also had to do some schoolwork.
+
+This is the latest that I have ever started working on the website, I started at around 6:30 pm, and I was up and doing a major task past 7:00 pm (The file exporting) hopefully tomorrow goes better, I don't have any projects planned that will interfere tomorrow. I will take this into account next time I am backing up 60 Gigabytes through a slow adapter (23 MB/s) maybe not let it get so full next time.
+
+Sean Patrick Myrick on May 1st 2020

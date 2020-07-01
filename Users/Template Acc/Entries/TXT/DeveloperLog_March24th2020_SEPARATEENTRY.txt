@@ -1,0 +1,7 @@
+SNU developer log day 419
+
+I started online school work today, and also woke up a little late, but I still had plenty of time for website development. Today, I worked on many different things again, which include a revival of work on the SNU CardStack platform (I modernized the homepage, and began to work on a new game) documentation, an update to the SNU web template, sourceBase (1.14 update, version 15 of HTML5) work on a software development kit for the CompuSmell project, and work on the SNU online school system.
+
+I made a lot of progress today. However, I did overwhelm myself with a lot of work. In the end, I managed to get it all done. I am making progress on the site again, but it hasn't been feeling like it lately. My schedule isn't fully balanced yet, and I need some time to settle in before I can become even more efficient again. Today was a good day for site development.
+
+Sean Patrick Myrick on March 24th 2020

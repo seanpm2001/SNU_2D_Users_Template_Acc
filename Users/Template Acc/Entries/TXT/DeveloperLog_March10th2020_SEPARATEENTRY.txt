@@ -1,0 +1,7 @@
+SNU developer log day 405
+
+I had a very short development day today, despite having 61 commits, not much was done. This is due to how many documents got exported. I am trying to learn to cope with my new CPU issues, I am really hoping this isn't a permanent thing and will go away soon, as it is making it really hard for me, and there is no fix for several months.
+
+Today, I worked on massive document exporting again (massive as in, there were over 20 commits related to document exports alone) and I worked on a small BrowserNose, and disease center update. Small amounts of documentation were made as well, and that was it. Today wasn't a very good day for development. My laptop has a massive issue monthly, sometimes it stays, sometimes it goes. By the way it currently looks, it looks like this issue is going to stay, and I might have to learn to readjust my entire schedule to get used to it. I hate Windows 10 more and more every day.
+
+Sean Patrick Myrick on March 10th 2020

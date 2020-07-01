@@ -1,0 +1,52 @@
+SNU developer log Week 66
+SNU developer log day 456
+
+There is something I forgot to do yesterday, I did it after wrapping up for the day. I upgraded the snapshot sections for the update log, developer log, and version history page so that they have 1000 snapshots, instead of 600
+
+I had a good day with development. I got work done for school, and also worked briefly on some personal projects. Todays development was similar to yesterdays, except for some new things that were done, such as increasing the snapshot section for the update log, developer log, and version history page from 600 to 1000, and also creating a separate entry page for week 65 of SNU documentation. I have some things I want to try and work on once I get further with this project.
+
+I have been coming up with some ideas that will expand SNU past just being a website engine, to something that is an IoT base. I am considering getting a side job as a documentation writer for VideoLan, as they have been struggling to get someone to document VLC Media Player for a while now, and I would proudly do it, even if I don't get paid. Today was an OK day for development.
+
+Sean Patrick Myrick on April 30th 2020
+SNU developer log day 457
+
+I had a difficult day today. I had a lot going on, and I spent almost 2 hours doing an SD card backup. My laptop has been having a new issue with severe lag lately that lasts for the first 3 hours of use, it seems Microsoft can't get anything right with Windows 10, as it always has some problem. Today, I did the usual documentation update that I have been doing lately, but with even less time. I also had to do some schoolwork.
+
+This is the latest that I have ever started working on the website, I started at around 6:30 pm, and I was up and doing a major task past 7:00 pm (The file exporting) hopefully tomorrow goes better, I don't have any projects planned that will interfere tomorrow. I will take this into account next time I am backing up 60 Gigabytes through a slow adapter (23 MB/s) maybe not let it get so full next time.
+
+Sean Patrick Myrick on May 1st 2020
+SNU developer log day 458
+
+It is supposed to storm today, and I need to make changes to my schedule, so I got to work extra early today, and tried to finish site development by 3:00 pm. I did the same thing that I have been doing lately again today, just massive amounts of commits via documentation.
+
+There is no need for a bottom description today, not much happened.
+
+Sean Patrick Myrick on May 2nd 2020
+SNU developer log day 459
+
+I started a new more effective schedule yesterday where I start 2 hours earlier. It is working really well, and I did it again today. I have time for my main projects, and also for extra projects. I finally got time to work on my music collection yesterday. However while taking a short 2 minute break from working yesterday, I came back to find that my computer had restarted itself, and it suffered from a critical error: Event 41 Kernel-power. I did some research on it, but there aren't too many tesults. I am hoping my hardware isn't going to fail. This is the first critical error my computer has had where the computer restarts itself. When it crashed monthly back in 2019, it would just completely freeze up until I did a hard power cycle. I got to work a bit late today, as I did some gardening, then I got distracted with Wikipedia.
+
+Recently, I removed the commenting from update log entries so that they show up early in their draft form. I am going to try and keep it this way for a while, as it reduces development time by nearly a minute and a half. Today, I did the usual documentation change that I have been doing lately. I am making some progress, I am down to making separate July 2019 entries now (From February 2020 entries) today was an OK day for development.
+
+Sean Patrick Myrick on May 3rd 2020
+SNU developer log day 460
+
+My schedule is starting to fail. On Saturday, I started a new schedule where I get to work before noon (instead of 3:00 pm) and then I can get even more done during the day. I have kept the schedule going, but a problem is setting me back: distractions. If my schedule goes back 1 more hour, it will be just like April 2020 again. I was still able to be productive today.
+
+Today was just like yesterday with website development, I am getting closer and closer to finishing the external documentation project (I am close to June 2019, from February 2020) not much else was done today. Today was an OK day for development. There haven't been any decent development days for a while, as I haven't been dedicating time to anything other than documentation.
+
+Sean Patrick Myrick on May 4th 2020
+SNU developer log day 461
+
+I was better with my schedule today, but some issues occurred. I was still able to get all my projects done. A side project, my audio collection, is close to reaching a goal from the beginning of the year, and I plan to start innovating the project once the goal is reached. I have been productive in other projects, and schoolwork, but SNU will continue to get the same type of update for a while.
+
+I am close to graduating from high school, and I am trying to figure out how to start my future next. I need more time to figure this out. Today, I did the usual documentation update (the one I have been doing for a week now) this project is also close to completion, and I will finish by the middle or ending of May 2020. Today was an OK day for development.
+
+Sean Patrick Myrick on May 5th 2020
+SNU developer log day 462
+
+I have gotten my schedule under order, but procrastination is messing everything up. Today, I was able to put out the same usual update as lately, but each day, it is being done less effectively. Development has been keeping a repetitive pace lately, but I hope to move on to a new project soon. The current project is nearing completion.
+
+There is no need for a bottom description again today, I don't have anything else I can put.
+
+Sean Patrick Myrick on May 6th 2020

@@ -1,0 +1,56 @@
+SNU developer log Week 58
+SNU developer log day 400
+
+I didn't have too many unique plans for today. Today, I focused mainly on a browser sniffing script update, with the usual documentation, and I also began planning the April Fools jokes for this year. A lot of progress was made in the field of SNU Browser sniffing today, with support for over a dozen new browsers.
+
+I had an orientation at the Humane Society today, we went an hour early, thinking it was at 4:00 pm, when it was actually at 5:00 pm. It significantly slowed me down afterwards, and I struggled to produce the update that I was planning comfortably. Browser sniffing planning is getting really advanced now.
+
+Sean Patrick Myrick on March 5th 2020
+SNU developer log day 401
+
+I was really stressed out with time limits when finalizing last nights update. I made it a lot easier for myself today because of this. Today, I worked on a normal documentation update, with some improvements to BrowserNose.
+
+I ended up being overloaded with tasks again tonight, as I underestimated how much I needed to do. It is now the weekend, and I plan on going to my friend Michaels house tomorrow. I have some very small plans for tomorrow as a break for the past 2 stressful days.
+
+Sean Patrick Myrick on March 6th 2020
+SNU developer log day 402
+
+I was going to do some volunteering this morning, but I slept in too late. Last night, I worked hard for hours on the website, but was not able to get everything done by 10:04 pm. The only thing that was left out yesterday was an update to the Firefox browser sniffing script. Today, I will visit my friend Michael at 4:00 pm, so I have to get some development done beforehand again.
+
+I stumbled across some things I forgot to do, such as create a Brave browser sniffing script, and snapshot the Week 57 blog on the same day of creation. I corrected those issues today, and I also worked on the usual documentation, and another major BrowserNose update, with new graphics and documentation. Today was a decent day for development, I took it easier today.
+
+Testing for browser sniffing scripts has stopped on the Update log for now, and is being continued on the BrowserNose homepage.
+
+Sean Patrick Myrick on March 7th 2020
+SNU developer log day 403
+
+I didn't do as much with development today. Window 10 has been a pain for me lately, I have to suffer with it for years as it gets worse and worse. I hope to switch to Linux when possible. Today, I have had excessively high CPU usage (50-80% at all times) from system processes that don't need to be running. It has drained my battery significantly, and wasted a lot of my time. It didn't let me do as much.
+
+Today, I did some tweaks to the sites browser sniffing functions, along with the homepage. I also did some slightly above average documentation improvements. I go back to school again tomorrow, and I really hope battery doesn't prove to be an issue again.
+
+I plan on doing new things again tomorrow. The time skipped forward by an hour today, so I lost an hour of development time as well. I really don't know why daylight savings time is still a thing.
+
+Sean Patrick Myrick on March 8th 2020
+SNU developer log day 404
+
+I started school again today, and I made an update plan for today. Today, I will be updating older articles (March 6th 2020) as I am now converting update log and developer log articles in 4 new formats (DOC, DOCX, UOT, RTF) my CPU usage is still an issue, but it isn't as bad at school.
+
+Along with documentation and exported files, today I worked on pages for new settings for video players, and the instant functionality of things. I also began work on a new disease research center, which can be used to research and learn about current and older diseases, including the COVID-19 (CoronaVirus) pandemic.
+
+Sean Patrick Myrick on March 9th 2020
+SNU developer log day 405
+
+I had a very short development day today, despite having 61 commits, not much was done. This is due to how many documents got exported. I am trying to learn to cope with my new CPU issues, I am really hoping this isn't a permanent thing and will go away soon, as it is making it really hard for me, and there is no fix for several months.
+
+Today, I worked on massive document exporting again (massive as in, there were over 20 commits related to document exports alone) and I worked on a small BrowserNose, and disease center update. Small amounts of documentation were made as well, and that was it. Today wasn't a very good day for development. My laptop has a massive issue monthly, sometimes it stays, sometimes it goes. By the way it currently looks, it looks like this issue is going to stay, and I might have to learn to readjust my entire schedule to get used to it. I hate Windows 10 more and more every day.
+
+Sean Patrick Myrick on March 10th 2020
+SNU developer log day 406
+
+I am starting to get used to the laptop CPU issue, but it has affected my website development due to time loss and distraction. Today, I didn't do much again, I had less time to develop today, and I just made a few minor changes.
+
+Today, I worked on site settings, improved documentation, and disease research. Nothing else was done today. I have been lacking lately, mostly due to the new CPU issue, but also because of a minor cold. Development should pick back up again soon.
+
+I have plans for the weekend, but school day updates may be a lot smaller. I am actively working on finding a new laptop so that I can have a more functional laptop that runs Linux. If necessary, SNU may need to be rewritten to support Ubuntu/Fedora, the 2 distros I have chosen as candidates to switch to. I really hope it doesn't come to that, as that would take a lot of time to rewrite.
+
+Sean Patrick Myrick on March 11th 2020

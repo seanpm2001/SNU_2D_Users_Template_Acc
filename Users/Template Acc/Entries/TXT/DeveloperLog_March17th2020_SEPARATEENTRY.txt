@@ -1,0 +1,7 @@
+SNU developer log day 412
+
+I didn't have as much time today, and I am halfway operational, so I made a small update today. I woke up late, started playing late, and had an appointment in the middle of the day, and I decided to relax for 3 hours afterwards. I am also trying to go to bed earlier, so I only had an hour to work today. I didn't want to end my update streak.
+
+I have been planning on doing something witb the tel: attribute at some point, but I am trying to figure out how everything works. Today, I didn't have as much time to update, so I mainly worked on documentation, with a small update to the translation service homepage. Hopefully tomorrow will go better.
+
+Sean Patrick Myrick on March 17th 2020

@@ -1,0 +1,60 @@
+SNU developer log Week 61
+SNU developer log day 421
+
+I had an extremely laid back update today, with nothing but documentation changes. I couldn't think of anything I wanted to do today, and I also had horrible time management, getting up at 8:00 am, but not getting to work until after 3:00 pm. I was doing other things, like tutoring my little brother with math, and just relaxing.
+
+I did nothing but documentation today. I didn't plan anything for today, and I didn't have the time. I began to export ZIP versions of update log and developer log entries today though, but other than that, nothing SNU (new)
+
+Sean Patrick Myrick on March 26th 2020
+SNU developer log day 422
+
+I wasn't feeling too up to an update today at first, but I still put one out. Over half of the commits were documentation related again, but today I decided to work on modernizing the old Internet Museum, and I started with the entrance and home pages. These pages haven't been updated since SNU 3.05, over 5-6 months ago. They carry old characreristics, such as the old, unchanged default Windows (CR) (LF) indentation, and the poor syntax (but not the basic 1993 HTML syntax, that hasn't been a thing for almost a whole year now, as I use a template now, and I know many more HTML tags than when I started (over 40x more) along with CSS and JS)
+
+I noticed a new management problem with keeping a zip format download of the developer log and update log entries besides storage, which is that I have to copy all 8 formats separately, and put them in a separate folder before zippig them, as each file type is assigned to its own folder. The problem this causes is high CPU usage, which leads to faster battery depletion, and also it takes extra development time to do this, especially when a weekly entry is involved. I will learn to work with this. Today was a decent day for development. I hope to work on the Internet Museum more, I still feel like it has potential.
+
+Sean Patrick Myrick on March 27th 2020
+SNU developer log day 423
+
+I was really out of it today. I was going to do more, but I had some focus issues. I stayed up really late last night, and had difficulty getting to work today. I have been taking too much downtime lately. I still did get some work done today.
+
+Today, I worked on documentation, and some changes to further modernize the SNU internet museum. I have a lot going on at the moment, and it has been difficult going with site development. I am also going to try and learn SQL again soon. Today wasn't a very good day for development, but it was better than nothing.
+
+I was more motivated later in the night, and I am running low on material for the SNU Internet Museum, so unless I come up with something else to do there, I will work on CardStack or something else tomorrow.
+
+Sean Patrick Myrick on March 28th 2020
+SNU developer log day 424
+
+I created a smaller update today. Originally, I planned on updating CardStack today, but I really didn't feel up to it, and I didn't have the time either. I worked on a new setting today for the digital cursor, and also created a news center with 1 starter article. I also did documenttion, but tht is pretty much it for the day. I hope tomorrow can go better, but I also have more online schoolwork starting either tomorrow, or some other time this week. My motivation for this project has been down for a while, but I will not abandon it at this point.
+
+The SNU Update log has become massively bloated, and I have an experimental idea for a fix to the issue, which is to create a separate update log with all comments over 50 bytes removed, since I can't remove them from the current version due to a rule I made. The update log is over 3 megabytes in size now, and it has been lagging more and more lately. Today was a short day for development.
+
+A little side thing, but OneDrive completely failed me earlier today and gave false image errors, which caused me to abandon it and just use an SD card. I won't use cloud services as heavily anymore, and will likely start using them again when SNU has the functionality to do so. I will still use it for very small things, like note transfers (which are normally 0.1 to 20 kilobytes in size, and it isn't worth all that on the SD card transfer for these files multiple times a day.
+
+Sean Patrick Myrick on March 29th 2020
+SNU developer log day 425
+
+I have had really bad time management lately, and it was difficult getting to work today. When I got to work, I came up with some stuff to do. I did a lot today with the time I had. I worked on documentation (as usual) a brief update to the SNU News system, a massive update to the SNU Internet Museum, getting the system ready to get all the old content back, and a syntax maintenance update to the original SNU internet legends page.
+
+I was a bit nauseous when I started working, but it got better overtime. I will continue work on the Internet Museum tomorrow, as there isn't much else for me to do at the moment. I originally was just going to do a documentation only update today, but I was able to do more than that in the end. I am hoping to get some outside help on the site soon, as I am resorting to modifying older pages again.
+
+I needed to go to bed earlier tonight, and in the end, I really didn't feel like working on 7 different pages. I will work on these pages over a course of 1-2 weeks, as I don't think I can fully optimize these 7 pages in less than an hour.
+
+Sean Patrick Myrick on March 30th 2020
+SNU developer log day 426
+
+Today was a really rough day for me. My mood is really beginning to go down after being cooped up for a month. I have canceled updates for today due to how distracted I have been. I have been really low functional all day today, and I just couldn't bring myself to update SNU past documentation. I worked on a different project in my focused time today, all that was held off was an update to the Internet museum, and 3D printing areas. I likely needed this off day to recuperate.
+
+I have also began to spell check on notepad++ I don't know why I didn't do this before, other than fears of it auto-replacing words in the wrong spots. Due to my fast 2 finger typing, I seem to make frequent errors when typing on notepad++ but when using LibreOffice, I keep it a lot neater. There seems to have been at least 2 spelling errors in most entries lately, hopefully I van fix that now. I will try a lot harder to do something tomorrow, since it is April 1st, and I will put out a much better April Fools joke compared to last years. Slightly longer TL;DR: Updates canceled for the day, it is hard being cooped up today, even though I got to work early, I worked on a different project and lost functionality. SNU was not updated.
+
+Sean Patrick Myrick on March 31st 2020
+SNU developer log day 427
+
+I have really been out of it lately. I was going to try and do something again today, but it didn't work out. Today I have adopted a new library from GitHub called NoCode, it will be part of the SNU 3.4.0 branch, you can view it here SNU 3.4.0beta1I only worked on documentation today, as that is all I was capable of.
+
+A major issue came up today that will really hinder site development. I wrote an article about it The Apple purchase of the iframe element I want to keep SNU open source, but I am worried about what Apple plans to do with this crucially important tag. I am going to have to pay a fine to even use it License cost of an apple iframe license is $99 I honestly can't believe this, they have received so much criticism for this, as so many people are currently using the tag, that they took the page down. Now there is no way to pay your iFee! Someone needs to get together and get a tag that can't be branded by a current company. So that is why development will be starting on the wwwframe project. I don't have the capacity to work on it yet, so I outsourced it to the Knome foundation, as GNOME and KDE have come together to fix things today. It should be ready in a few weeks, then Apple will be screwed! This is the longest entry I have ever done. I don't know if anyone is going to buy this tnih tnih (:
+
+April Fools! To be serious now, development has been a bit difficult lately, I seem to finally be getting better today. I have been in a lot of pain, and I have had lots of focus issues. I am going to begin an experiment on myself tomorrow to try and fix this. I have plans for more site updates once I get my life together again.
+
+Last years April Fools joke was so bad, I can't even consider it an April Fools joke. So this year is the first year for these. I don't think a really suspectible link with rage comics can qualify as a prank, so this year I spent over a month preparing with my April Fools planning time. This year, there were 2 jokes, that include the adoption of nocode for SNU 3.4.0, which is literally nothing, and apple buying the iframe element, it is believable, and I put some work into making someone fall for it. I am just saving these jokes up at the moment, as I have no audience yet. Only a documentation update was made today, I have been very poorly functional lately, and things are finally looking up now, so I might get back to work tomorrow.
+
+Sean Patrick Myrick on April 1st 2020
