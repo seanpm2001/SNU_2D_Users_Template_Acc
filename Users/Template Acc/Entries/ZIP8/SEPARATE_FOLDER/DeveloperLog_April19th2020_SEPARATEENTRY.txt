@@ -1,0 +1,11 @@
+SNU developer log day 445
+
+I didn't have any time with my Linux machines today (other than my phone) and I was really unfocused. I read a lot of Wikipedia and got sidetracked frequently. I had to work a little later in my afternoon session due to this. The video player receives its final translation update for now, I translated every language that I could, and left placeholder text for those I couldn't translate. I finally have a good concept for the video resolution options, so I added a demo of that today. Along with this, I did the usual documentation changes, and created 10 more separate update log and developer log entry pages, as part of the new project of creating pages for every day I have created a developer log, and or update log post.
+
+Tomorrow is the 21st anniversary of the Columbine High School shooting, this year there won't be any copycat shootings, since schools are closed around the world. It is a horrible anniversary. I didn't do anything else with site development today. I got an answer to the color question for the BSoD project, but unfortunately, he isn't a web developer, so he didn't know how to better span the text.
+
+Further Linux web development research last night shows that I have been implementing images and videos correctly as well. I saved the majority of work for late tonight, as my phone is charging slowly, and I ran out of time earlier. I came up with some really good ideas for development, ideas that will completely change the upper SNU source code foundation: there will be separate libraries for whatever language a SNU distro developer wants to develop with. Common examples would include Node.js, Ruby, Scala, Rust, and more. Not every development team is qualified to work with all languages, and we can't depend on old languages without having support for other ones, or else SNU becomes comparable to government software that is out of date, running old COBOL code on an 8/16 bit machine.
+
+As the SNU update log decreases in size, the developer log increases in size. The developer log doesn't have nearly as much bloat as the update log, so there isn't much can do. The developer log sits at 1.05 Megabytes right now, and grows by just a few kilobytes each day, so it is fine.
+
+Sean Patrick Myrick on April 19th 2020

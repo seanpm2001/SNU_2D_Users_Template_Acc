@@ -1,0 +1,7 @@
+SNU developer log day 446
+
+I planned a lot to do last night, but only got to some parts of it. I had a really rough day today, I ran out of one of my medications, and had constant existential crisises, panic attacks, and severe jaw pain. I later got a replacement, and I got better. I prepared so much last night, unfortunately, I will have to do it tomorrow.
+
+Today, I continued with day 3 of separate update log and developer log entry pages. I also did documentation, and implemented several video player options I had plans to add in last night. Today wasn't a very good day for development, I still pushed myself to get something done. I hope to work on the other projects tomorrow.
+
+Sean Patrick Myrick on April 20th 2020

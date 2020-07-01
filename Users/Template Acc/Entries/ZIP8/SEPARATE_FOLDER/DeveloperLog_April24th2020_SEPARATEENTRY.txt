@@ -1,0 +1,7 @@
+SNU developer log day 450
+
+I am still deciding on what to do next. I am continuing the creation of separate update log and developer log entry pages for articles before February 29th 2020, but I am doing very little other than that. Today, I did an ideaboard update along with the documentation, plus did some testing of the marquee HTML tag, which is deprecated. I made a joke page about 90s Internet with the style of old Internet pages, as a practice of my skills. I didn't do much today.
+
+There is no need for a bottom description today.
+
+Sean Patrick Myrick on April 24th 2020

@@ -1,0 +1,7 @@
+SNU developer log day 449
+
+I had a difficult day today. I woke up late, and had a lot less time. I have had a lot of tension lately, and there have been some issues. I had to get out of the house for a bit today. I originally planned in the evening to cancel work on separate documents for the Update log and Developer log to go easy on myself, but I changed my mind. I am upset about yesterday, since I incorrectly labeled the commits for it. This is one of the biggest update log errors I have made.
+
+Today I focused on documentation, and improvement of the ideaboard. I am trying to find something else to do on the site, but I am not having much luck. Development was OK today, but not much was done.
+
+Sean Patrick Myrick on April 23rd 2020

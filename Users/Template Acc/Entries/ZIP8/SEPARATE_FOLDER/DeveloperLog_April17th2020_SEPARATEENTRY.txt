@@ -1,0 +1,9 @@
+SNU developer log day 443
+
+I had very little time for development today. I woke up late, and then something else took up an additional 2 hours. After my issues with Windows 10 yesterday, I have pushed the goal for a Linux laptop from December to any time I find a good one. So to prepare, I reinstalled VirtualBox, and created a Fedora 31 virtual machine. It took over an hour to install, as I only gave it 1 CPU core, and 2048 Megabytes of RAM. I am considering upping the RAM to 3072 MB or 4096 MB. I tested it out and created a snapshot. Making a VHD snapshot took too long, so I did a shutdown of the VM. I got to website work at 5:00 pm, giving me less than 30 minutes to start my work for today. It was worth it though, as I need to get back into Virtual Machines, and I had a good time with it. This was my 3rd successful Linux installation.
+
+Today I did a documentation update, with changes to the SNU video player. I am going to continue to work on the video player on days where I don't have as much time. It is an important component, and I am making progress on it. Today wasn't the best day for development, but preparing for Linux is going to help me greatly in the future.
+
+I had more time later in the night, and I decided to install Kubuntu 18.04.2 in a Virtual Machine as well. I got some files created, then began to wrap up website work late. I am using these virtual machines for my introduction to Linux, so I can replace Windows 10 on my laptop, and also to test compatibility (such as the ../dir1/file1.html question I have: if I need to rewrite SNU hyperlinks to see if they work on Linux)
+
+Sean Patrick Myrick on April 17th 2020
